@@ -1,0 +1,4655 @@
+num,english_word,russian_word1,russian_word2,russian_word3
+1,alone,в одиночестве,исключительно,None
+2,away,далеко,None,None
+3,give up,сдаваться,бросать,None
+4,little bit,немного,None,None
+5,age,возраст,эпоха,None
+6,alert,бдительный,проворный,None
+7,apart,в стороне,порознь,None
+8,fire,огонь,None,None
+9,bear,нести,None,None
+10,bind,связывать,None,None
+11,birth,рождение,None,None
+12,blow,дуть,None,None
+13,break,ломать,None,None
+14,chance,шанс,None,None
+15,care,заботиться,None,None
+16,clean,чистый,None,None
+17,clear,ясный,светлый,None
+18,light,свет,None,None
+19,pass,проходить,None,None
+20,true,верный,истинный,None
+21,contrary,"нечто обратное, противоположное",None,None
+22,deal,сделка,None,None
+23,egg,яйцо,None,None
+24,estate,имущество,None,None
+25,point,точка,None,None
+26,fall,падать,None,None
+27,love,любовь,None,None
+28,find,находить,None,None
+29,while,промежуток времени,None,None
+30,touch,прикосновение,None,None
+31,marry,жениться,None,None
+32,use,использовать,None,None
+33,mad,сумасшедший,раздражённый,None
+34,nut,орех,None,None
+35,lie,лгать,лежать,None
+36,leave,оставлять,None,None
+37,room,комната,None,None
+38,long,долго,давно,далеко
+39,sure,уверенный,несомненный,None
+40,master,мастер,None,None
+41,matter,дело,None,None
+42,risk,риск,None,None
+43,tear,рвать,None,None
+44,turn,поворачивать,None,None
+45,brother,брат,None,None
+46,green,зелёный,None,None
+47,abandon,бросать,отказываться,None
+48,abbreviation,аббревиатура,None,None
+49,aberration,отклонение,None,None
+50,abhor,ненавидеть,None,None
+51,abide,соблюдать,None,None
+52,ability,способность,None,None
+53,abject,крайний,None,None
+54,able,способный,None,None
+55,abnormality,ненормальность,None,None
+56,aboard,"на корабле, на борту",None,None
+57,abolish,отменять,None,None
+58,abortion,аборт,None,None
+59,abound,изобиловать,None,None
+60,abroad,за границей,None,None
+61,abrupt,резкий,None,None
+62,absence,отсутствие,None,None
+63,absent,отсутствующий,None,None
+64,absorb,поглощать,None,None
+65,abstain,воздерживаться,None,None
+66,absurd,нелепый,абсурдный,None
+67,abundance,изобилие,None,None
+68,abundant,обильный,None,None
+69,abuse,злоупотребление,None,None
+70,abuse,ругать,оскорблять,None
+71,abyss,пропасть,None,None
+72,accelerate,ускорять,None,None
+73,accept,принимать,None,None
+74,acceptable,приемлемый,None,None
+75,acceptance,принятие,None,None
+76,access,доступ,None,None
+77,accessory,добавочный,None,None
+78,accident,несчастный случай,None,None
+79,accidental,случайный,None,None
+80,accommodate,вмещать,None,None
+81,accommodation,жильё,None,None
+82,accompany,сопровождать,None,None
+83,accomplish,"осуществлять, выполнять, завершать",None,None
+84,accomplishment,достижение,None,None
+85,accord,соглашение,None,None
+86,accordance,соответствие,None,None
+87,accord,предоставлять,None,None
+88,accordingly,соответственно,None,None
+89,account,счёт,None,None
+90,accountable,подотчётный,None,None
+91,accountant,бухгалтер,None,None
+92,accumulate,накапливаться,None,None
+93,accuracy,точность,None,None
+94,accurate,точный,None,None
+95,accusation,обвинение,None,None
+96,accuse,обвинять,None,None
+97,accustom,нет перевода,None,None
+98,ache,боль,None,None
+99,achieve,достигать,None,None
+100,achievement,достижение,None,None
+101,acid,кислота,None,None
+102,acknowledge,признавать,None,None
+103,acquaintance,знакомство,None,None
+104,acquire,приобретать,None,None
+105,acquisition,приобретение,None,None
+106,acquit,оправдать,None,None
+107,act,акт,None,None
+108,action,действие,None,None
+109,active,активный,None,None
+110,activity,деятельность,None,None
+111,actor,актёр,None,None
+112,actress,актриса,None,None
+113,actual,фактический,None,None
+114,actually,на самом деле,None,None
+115,acute,острый,None,None
+116,adapt,адаптировать,None,None
+117,add,добавлять,None,None
+118,addict,наркоман,None,None
+119,addiction,пагубная привычка,None,None
+120,addition,добавление,None,None
+121,additional,дополнительный,None,None
+122,address,адрес,обращение,None
+123,adequate,адекватный,None,None
+124,adhere,придерживаться,None,None
+125,adjective,прилагательное,None,None
+126,adjust,регулировать,None,None
+127,adjustment,регулировка,None,None
+128,admirable,"замечательный, восхитительный, превосходный",None,None
+129,admiration,восхищение,None,None
+130,admire,восхищаться,None,None
+131,admission,вход,None,None
+132,admit,признавать,None,None
+133,adopt,принимать,None,None
+134,adoption,усыновление,принятие,None
+135,adore,обожать,None,None
+136,adorn,украшать,None,None
+137,adult,взрослый,совершеннолетний,None
+138,adultery,прелюбодеяние,None,None
+139,advance,продвигать(ся),None,None
+140,advancement,продвижение,None,None
+141,advantage,преимущество,None,None
+142,adventure,приключение,None,None
+143,adventurous,авантюрный,None,None
+144,adverse,неблагоприятный,None,None
+145,adversity,несчастья,None,None
+146,advertise,рекламировать(ся),None,None
+147,advertisement,реклама,None,None
+148,advice,совет,None,None
+149,advise,советовать,None,None
+150,advisory,консультативный,None,None
+151,advocate,адвокат,None,None
+152,affair,дело,событие,None
+153,affect,влиять,None,None
+154,affection,любовь,None,None
+155,affectionate,привязчивый,None,None
+156,affirm,утверждать,None,None
+157,affirmative,утвердительный,None,None
+158,afflict,огорчать,None,None
+159,afford,иметь возможность,None,None
+160,afraid,напуганный,None,None
+161,afresh,снова,None,None
+162,afternoon,день,None,None
+163,afterwards,впоследствии,None,None
+164,aggregate,агрегировать,None,None
+165,aging,старение,None,None
+166,agree,соглашаться,None,None
+167,agreeable,приятный,None,None
+168,agreement,согласие,соглашение,None
+169,agriculture,сельское хозяйство,None,None
+170,ahead,вперёд,впереди,None
+171,aid,помогать,None,None
+172,ailment,болезнь,None,None
+173,aim,цель,None,None
+174,air,воздух,None,None
+175,aircraft,самолёт,None,None
+176,airline,авиакомпания,None,None
+177,airplane,самолёт,None,None
+178,akin,сродни,None,None
+179,alarm,тревога,None,None
+180,alien,иностранный,None,None
+181,alight,сойти,None,None
+182,alike,одинаково,None,None
+183,alimony,алименты,None,None
+184,alive,живой,None,None
+185,allay,смягчать,None,None
+186,allege,"ссылаться (в оправдание, в доказательство)",None,None
+187,allegiance,верность,None,None
+188,alliance,альянс,None,None
+189,allow,позволять,None,None
+190,ally,союзник,None,None
+191,almighty,(всемогущий) бог,None,None
+192,almost,почти,None,None
+193,alongside,рядом,None,None
+194,aloud,вслух,громко,None
+195,already,уже,None,None
+196,alter,изменять,None,None
+197,alternative,альтернатива,None,None
+198,altogether,в целом,None,None
+199,amass,нет перевода,None,None
+200,amateur,любитель,None,None
+201,amaze,удивлять,None,None
+202,ambassador,посол,None,None
+203,ambition,амбиция,None,None
+204,ambitious,честолюбивый,None,None
+205,ambulance,скорая помощь,None,None
+206,ambush,засада,None,None
+207,amenable,поддающийся,None,None
+208,amend,изменить,None,None
+209,amendment,поправка,None,None
+210,amiable,любезный,None,None
+211,amiss,неправильно,неуместно,None
+212,ammunition,боеприпасы,None,None
+213,amount,количество,None,None
+214,ample,обильный,None,None
+215,amuse,забавлять,None,None
+216,amusement,развлечение,None,None
+217,analysis,анализ,None,None
+218,ancestor,предок,None,None
+219,anchor,якорь,None,None
+220,ancient,древний,None,None
+221,anew,заново,None,None
+222,anger,гнев,None,None
+223,angle,угол,None,None
+224,angry,сердитый,None,None
+225,anguish,тоска,None,None
+226,animal,животное,None,None
+227,animalism,анимализм,None,None
+228,animate,оживлять,None,None
+229,anniversary,годовщина,None,None
+230,ance,объявлять,None,None
+231,ancement,объявление,None,None
+232,annoy,раздражать,None,None
+233,annual,годовой,None,None
+234,answer,ответ,None,None
+235,ant,муравей,None,None
+236,anthem,гимн,None,None
+237,anticipate,предвидеть,None,None
+238,anticipation,ожидание,None,None
+239,antidote,противоядие,None,None
+240,antipathy,антипатия,None,None
+241,anxiety,тревога,None,None
+242,anxious,озабоченный,None,None
+243,anyhow,каким бы то ни было образом,None,None
+244,anymore,больше,None,None
+245,anyway,как бы то ни было,None,None
+246,apartment,квартира,None,None
+247,apathy,апатия,None,None
+248,ape,обезьяна,None,None
+249,apologise,извиняться,None,None
+250,apology,извинение,None,None
+251,appal,устрашать,None,None
+252,apparent,очевидный,None,None
+253,appeal,обжаловать,None,None
+254,appear,появляться,None,None
+255,appearance,появление,None,None
+256,appease,утолить,None,None
+257,applaud,аплодировать,None,None
+258,applause,аплодисменты,None,None
+259,appliance,прибор,None,None
+260,application,применение,заявление,None
+261,apply,применять,None,None
+262,appoint,назначать,None,None
+263,appointment,назначение,None,None
+264,appraise,нет перевода,None,None
+265,appreciate,ценить,оценивать,принимать во внимание
+266,appreciation,оценка,None,None
+267,approach,подходить,None,None
+268,appropriate,присвоить,None,None
+269,appropriation,присвоение,None,None
+270,approval,утверждение,None,None
+271,approve,утвердить,None,None
+272,apt,склонный,None,None
+273,arbitrary,произвольный,None,None
+274,archive,архив,None,None
+275,ardent,ярый,None,None
+276,arduous,трудный,None,None
+277,area,область,площадь,None
+278,argue,спорить,None,None
+279,argument,аргумент,None,None
+280,arise,возникать,происходить,None
+281,arm,рука,рукав,ручка
+282,armament,вооружение,None,None
+283,armoury,арсенал,None,None
+284,army,армия,None,None
+285,arouse,возбуждать,None,None
+286,arrange,систематизировать,организовывать,None
+287,arrangement,расположение,None,None
+288,arrest,арестовывать,None,None
+289,arrival,прибытие,None,None
+290,arrive,приезжать,прибывать,None
+291,arrogant,высокомерный,None,None
+292,arrow,стрелка,None,None
+293,art,искусство,None,None
+294,artful,хитрый,None,None
+295,article,статья,None,None
+296,artificial,искусственный,None,None
+297,artist,художник,None,None
+298,phr.as long as,пока,None,None
+299,ascend,взойти,None,None
+300,ash,пепел,None,None
+301,ashamed,нет перевода,None,None
+302,asleep,спящий,None,None
+303,aspiration,стремление,None,None
+304,aspire,стремиться,None,None
+305,ass,задница,None,None
+306,assail,нападать,None,None
+307,assassin,убийца,None,None
+308,assassinate,убить,None,None
+309,assault,нападение,None,None
+310,assemble,собирать,None,None
+311,assembly,сборка,None,None
+312,assert,утверждать,None,None
+313,assertion,утверждение,None,None
+314,assess,оценивать,None,None
+315,asset,нет перевода,None,None
+316,asshole,нет перевода,None,None
+317,assign,назначать,None,None
+318,assignment,назначение,None,None
+319,assist,помогать,содействовать,None
+320,assistance,помощь,None,None
+321,associate,сотрудник,None,None
+322,association,ассоциация,None,None
+323,assume,предполагать,None,None
+324,assumption,предположение,None,None
+325,assurance,уверенность,None,None
+326,assure,гарантировать,None,None
+327,astonish,удивлять,None,None
+328,astonishment,изумление,None,None
+329,astound,поражать,None,None
+330,astray,заблудившись,None,None
+331,asylum,убежище,None,None
+332,phr.at all,вообще,совсем,None
+333,phr.at first,сначала,None,None
+334,phr.at least,по крайней мере,None,None
+335,phr.at once,сразу,None,None
+336,atheist,атеист,None,None
+337,atrocity,зверство,None,None
+338,attach,присоединять,None,None
+339,attachment,крепление,None,None
+340,attack,нападение,None,None
+341,attain,достигать,None,None
+342,attempt,попытка,None,None
+343,attend,присутствовать,заботиться,None
+344,attendant,служитель,None,None
+345,attention,внимание,None,None
+346,attentive,внимательный,None,None
+347,attic,чердак,None,None
+348,attitude,отношение,None,None
+349,attorney,адвокат,поверенный,None
+350,attract,привлечь,None,None
+351,attraction,привлечение,None,None
+352,attractive,привлекательный,None,None
+353,attribute,атрибут,None,None
+354,audacious,смелый,None,None
+355,audacity,дерзость,None,None
+356,audible,звуковой,None,None
+357,audience,аудитория,None,None
+358,augment,увеличить,None,None
+359,aunt,тётя,None,None
+360,author,автор,None,None
+361,authority,власть,авторитет,None
+362,authorize,санкционировать,None,None
+363,autumn,осень,None,None
+364,availability,наличие,None,None
+365,available,доступный,None,None
+366,avalanche,лавина,None,None
+367,avarice,жадность,None,None
+368,avenge,мстить,None,None
+369,average,cреднее значение,None,None
+370,avert,предотвратить,None,None
+371,avoid,избегать,None,None
+372,await,ждать,None,None
+373,awake,бодрствующий,None,None
+374,awakening,пробуждение,None,None
+375,award,награда,None,None
+376,aware,знающий,None,None
+377,awareness,осознание,None,None
+378,awe,благоговение,None,None
+379,awesome,потрясающий,None,None
+380,awful,ужасный,None,None
+381,awkward,неуклюжий,None,None
+382,axe,топор,None,None
+383,babe,младенец,None,None
+384,baby,ребёнок,None,None
+385,bachelor,холостяк,None,None
+386,back,спина,оборот,None
+387,back,назад,None,None
+388,backbone,позвоночник,None,None
+389,background,фон,None,None
+390,backward,назад,None,None
+391,badly,плохо,None,None
+392,baffle,"расстраивать, опрокидывать (расчёты, планы)",None,None
+393,bag,сумка,None,None
+394,bail,залог,None,None
+395,bait,наживка,None,None
+396,bake,печь,None,None
+397,balance,баланс,None,None
+398,bald,лысый,None,None
+399,ballot,голосование,None,None
+400,ball,мяч,None,None
+401,ban,запретить,None,None
+402,band,повязка,полоса частот,None
+403,bang,взрыв,None,None
+404,banish,изгонять,None,None
+405,bank,банк,None,None
+406,baptism,крещение,None,None
+407,bar,бар,None,None
+408,barbarian,варварский,None,None
+409,barber,парикмахер,None,None
+410,bare,голый,None,None
+411,barely,едва,None,None
+412,bargain,сделка,None,None
+413,bark,кора,None,None
+414,barrel,бочка,баррель,None
+415,barrier,барьер,None,None
+416,bartender,бармен,None,None
+417,base,база,None,None
+418,baseless,необоснованный,None,None
+419,basement,подвал,None,None
+420,bash,удар,None,None
+421,basic,основной,None,None
+422,basis,основа,None,None
+423,basket,корзина,None,None
+424,bastard,ублюдок,None,None
+425,bath,ванна,None,None
+426,bathe,купаться,None,None
+427,bathroom,ванная комната,None,None
+428,battle,битва,None,None
+429,bay,залив,None,None
+430,bean,фасоль,None,None
+431,bear,медведь,None,None
+432,bearable,терпимый,None,None
+433,beard,борода,None,None
+434,beast,зверь,None,None
+435,beat,бить,None,None
+436,beauty,красота,None,None
+437,become,становиться,None,None
+438,bed,кровать,None,None
+439,bedroom,спальня,None,None
+440,bee,пчела,None,None
+441,beef,говядина,None,None
+442,beer,пиво,None,None
+443,befall,постичь,None,None
+444,beforehand,заранее,None,None
+445,beg,просить,None,None
+446,beget,порождать,None,None
+447,beggar,нищий,None,None
+448,behalf,польза,None,None
+449,behave,вести себя,None,None
+450,behavior,поведение,None,None
+451,behold,созерцать,замечать,None
+452,belief,вера,None,None
+453,believable,"вероятный, правдоподобный",None,None
+454,believe,верить,None,None
+455,believer,верующий,None,None
+456,belittle,нет перевода,None,None
+457,bell,колокол,звонок,None
+458,belly,живот,None,None
+459,belong,принадлежать,None,None
+460,belongings,вещи,None,None
+461,below,ниже,None,None
+462,belt,ремень,None,None
+463,bench,скамья,None,None
+464,bend,изгиб,None,None
+465,beneficial,благотворный,None,None
+466,benefit,выгода,None,None
+467,benevolent,доброжелательный,None,None
+468,berry,ягода,None,None
+469,bet,ставка,None,None
+470,betray,выдавать,изменять,None
+471,beware,остерегаться,None,None
+472,bias,смещение,None,None
+473,bible,библия,None,None
+474,bicycle,велосипед,None,None
+475,bid,приказывать,None,None
+476,bill,счёт к оплате,None,None
+477,billboard,рекламный щит,None,None
+478,birch,берёза,None,None
+479,bird,птица,None,None
+480,birthday,день рождения,None,None
+481,biscuit,сухое печенье,None,None
+482,bit,небольшое количество,бит,None
+483,bitch,сука,None,None
+484,bite,укус,None,None
+485,bitter,"горький, мучительный",None,None
+486,bizarre,нет перевода,None,None
+487,blade,лезвие,None,None
+488,blame,упрёк,вина,None
+489,blank,пустой,None,None
+490,blanket,покрывать (одеялом),None,None
+491,blast,взрыв,None,None
+492,blaze,пылать,None,None
+493,bleak,"открытый, незащищённый от ветра",None,None
+494,bleed,кровоточить,None,None
+495,blend,смешать,None,None
+496,bless,благословлять,None,None
+497,blind,слепой,None,None
+498,blink,мигать,None,None
+499,block,блок,None,None
+500,blockhead,болван,None,None
+501,blonde,"белокурый, светлый",None,None
+502,blood,кровь,None,None
+503,bloom,цветение,None,None
+504,blossom,цвести,None,None
+505,blow up,взрывать(ся),надуть,None
+506,bluff,блефовать,None,None
+507,blunder,ошибка,None,None
+508,blunt,притупить,None,None
+509,blur,размытие,None,None
+510,blush,краснеть,None,None
+511,board,доска,None,None
+512,boardroom,зал заседаний,None,None
+513,boast,хвастаться,None,None
+514,boat,лодка,None,None
+515,bode,нет перевода,None,None
+516,body,тело,None,None
+517,bodyguard,телохранитель,None,None
+518,boil,кипятить,None,None
+519,bold,отважный,наглый,None
+520,bond,связь,None,None
+521,bone,кость,None,None
+522,bonfire,костёр,None,None
+523,boob,болван,None,None
+524,book,книга,None,None
+525,boon,благо,None,None
+526,boost,увеличить,None,None
+527,boot,ботинок,None,None
+528,booze,выпивка,None,None
+529,border,граница,None,None
+530,boredom,скука,None,None
+531,bore,утомлять,None,None
+532,born,рождённый,None,None
+533,borrow,занимать,заимствовать,None
+534,bosom,грудь,None,None
+535,bother,беспокоить,None,None
+536,bottle,бутылка,None,None
+537,bottom,низ,дно,None
+538,bounce,отскочить,None,None
+539,boundary,граница,None,None
+540,bounty,щедрость,None,None
+541,bow,лук,None,None
+542,bow,кланяться,None,None
+543,bowl,чаша,None,None
+544,box,коробка,None,None
+545,brace,фигурная скобка,None,None
+546,brag,похвастаться,None,None
+547,brain,мозг,None,None
+548,brake,тормоз,None,None
+549,branch,ветвиться,None,None
+550,brass,латунь,None,None
+551,brave,храбрый,None,None
+552,bravery,храбрость,None,None
+553,breach,брешь,нарушение,None
+554,bread,хлеб,None,None
+555,breadth,ширина,None,None
+556,break down,ломать(ся),терять самообладание,None
+557,break into,вламываться,врываться,разражаться
+558,break up,распадаться,расходиться,прерывать(ся)
+559,breakdown,разбивка,None,None
+560,breakfast,завтрак,None,None
+561,breast,грудь,None,None
+562,breath,дыхание,None,None
+563,breathe,дышать,None,None
+564,breed,порода,None,None
+565,bribe,взятка,None,None
+566,brick,кирпич,None,None
+567,bride,невеста,None,None
+568,bridge,мост,None,None
+569,bridle,уздечка,None,None
+570,brief,краткий,None,None
+571,bright,яркий,None,None
+572,brilliant,блестящий,None,None
+573,brim,брим,None,None
+574,bring,приносить,None,None
+575,bring back,возвращать,восстановить,None
+576,brink,край,None,None
+577,brisk,оживлённый,None,None
+578,broad,широкий,None,None
+579,broadcast,радиовещание,None,None
+580,broaden,расширить,None,None
+581,brook,ручей,None,None
+582,broom,метла,None,None
+583,brunette,брюнетка,None,None
+584,brush,щётка,None,None
+585,brutal,жестокий,None,None
+586,brutality,жестокость,None,None
+587,brute,животное,None,None
+588,bubble,пузырь,None,None
+589,buck,доллар,None,None
+590,bucket,ведро,None,None
+591,budge,шевелиться,None,None
+592,budget,бюджет,None,None
+593,bug,жук,ошибка,None
+594,bugger,мудак,None,None
+595,build,строить,None,None
+596,building,здание,None,None
+597,bulk,объём,None,None
+598,bull,бык,None,None
+599,bullet,пуля,None,None
+600,bullshit,фигня,None,None
+601,bully,хулиган,None,None
+602,bunch,куча,None,None
+603,bundle,набор,None,None
+604,burden,бремя,None,None
+605,bureaucracy,бюрократия,None,None
+606,burial,захоронение,None,None
+607,burn,гореть,жечь,None
+608,burst,лопнуть,None,None
+609,bury,хоронить,None,None
+610,bus,автобус,None,None
+611,bush,куст,None,None
+612,business,дело,бизнес,None
+613,bust,"разжаловать, снизить в чине",None,None
+614,bustle,суета,None,None
+615,busy,занятый,None,None
+616,butt,приклад,None,None
+617,button,кнопка,None,None
+618,buy,покупать,None,None
+619,buzz,кайф,None,None
+620,cab,кабина,None,None
+621,cabbage,капуста,None,None
+622,cabin,кабина,None,None
+623,cable,кабель,None,None
+624,cage,клетка,None,None
+625,cake,торт,None,None
+626,calculate,вычислять,None,None
+627,calculation,расчёт,None,None
+628,calf,телёнок,None,None
+629,call,вызов,None,None
+630,call,звонить,вызывать,None
+631,calm,тишина,None,None
+632,calmness,спокойствие,None,None
+633,camel,верблюд,None,None
+634,camp,лагерь,None,None
+635,campaign,кампания,None,None
+636,cancel,отменять,None,None
+637,cancer,рак,None,None
+638,candle,свеча,None,None
+639,candy,конфета,None,None
+640,cannon,пушка,None,None
+641,canvas,холст,None,None
+642,cap,крышка,None,None
+643,capability,способность,None,None
+644,capable,способный,None,None
+645,capacity,мощность,None,None
+646,capital,капитальный,превосходный,важнейший
+647,captivate,очаровывать,None,None
+648,captive,взятый в плен,None,None
+649,capture,захват,None,None
+650,car,автомобиль,None,None
+651,cardboard,картон,None,None
+652,care,уход,None,None
+653,career,карьера,None,None
+654,careful,заботливый,аккуратный,None
+655,careless,небрежный,None,None
+656,cargo,груз,None,None
+657,carpenter,плотник,None,None
+658,carpet,ковёр,None,None
+659,carry,нести,None,None
+660,carry out,выполнять,осуществлять,приводить в исполнение
+661,cart,повозка,тележка,None
+662,cartoon,мультфильм,None,None
+663,case,дело,None,None
+664,cash,наличные,None,None
+665,cast,бросить,None,None
+666,castle,замок,None,None
+667,casual,случайный,None,None
+668,casualty,несчастный случай,None,None
+669,catch,ловить,None,None
+670,cattle,крупный рогатый скот,None,None
+671,cause,причина,None,None
+672,caution,осторожность,None,None
+673,cautious,осторожный,None,None
+674,cave,пещера,None,None
+675,cease,прекратить,None,None
+676,ceiling,потолок,None,None
+677,celebrate,праздновать,None,None
+678,celebrity,знаменитость,None,None
+679,cell,клетка,None,None
+680,cellar,подвал,погреб,None
+681,cemetery,кладбище,None,None
+682,censorship,цензура,None,None
+683,century,век,None,None
+684,certain,определённый,None,None
+685,certainty,уверенность,None,None
+686,certify,сертифицировать,None,None
+687,chain,цепь,None,None
+688,chair,стул,None,None
+689,chairman,председатель,None,None
+690,chalk,мел,None,None
+691,challenge,вызов,сложная задача,None
+692,change,изменение,None,None
+693,changeable,изменчивый,None,None
+694,channel,канал,None,None
+695,chaos,хаос,None,None
+696,chapter,глава,None,None
+697,character,характер,символ,None
+698,charge,размер платы,обвинение,заряд
+699,charity,благотворительность,None,None
+700,charm,очарование,None,None
+701,charming,очаровательный,None,None
+702,chase,погоня,None,None
+703,chastity,целомудрие,None,None
+704,chat,чат,None,None
+705,cheap,дешёвый,None,None
+706,cheat,обманывать,None,None
+707,check,проверить,None,None
+708,cheek,щека,None,None
+709,cheer,"аплодисменты, одобрительные возгласы",None,None
+710,cheerful,весёлый,None,None
+711,cheese,сыр,None,None
+712,chemical,химический,None,None
+713,chemistry,химия,None,None
+714,cherish,лелеять,None,None
+715,cherry,вишня,None,None
+716,chess,шахматы,None,None
+717,chest,грудь,None,None
+718,chew,жевать,None,None
+719,chicken,курица,None,None
+720,chief,"глава, руководитель",None,None
+721,childhood,детство,None,None
+722,chill,холод,None,None
+723,chin,подбородок,None,None
+724,chink,скважина,None,None
+725,chip,чип,None,None
+726,choice,выбор,None,None
+727,choke,душить,None,None
+728,choose,выбирать,None,None
+729,chop,рубить,None,None
+730,chorus,хор,None,None
+731,christian,христианский,None,None
+732,christmas,рождество,None,None
+733,chunk,кусок,None,None
+734,church,церковь,None,None
+735,cinema,кино,None,None
+736,circle,круг,None,None
+737,circuit,схема,None,None
+738,circumstance,обстоятельство,None,None
+739,cite,цитировать,None,None
+740,citizen,гражданин,None,None
+741,city,город,None,None
+742,civic,гражданский,None,None
+743,civil,гражданский,None,None
+744,civilian,штатский (человек),None,None
+745,claim,претензия,None,None
+746,clap,хлопать,None,None
+747,clarify,прояснить,None,None
+748,clash,столкновение,None,None
+749,clay,глина,None,None
+750,clearly,ясно,None,None
+751,clergy,духовенство,None,None
+752,cleric,нет перевода,None,None
+753,clerk,клерк,None,None
+754,click,щелчок,None,None
+755,climate,климат,None,None
+756,climb,взбираться,None,None
+757,cling,цепляться,облегать,None
+758,clip,обрезать,None,None
+759,clock,часы,None,None
+760,clockwise,по часовой стрелке,None,None
+761,close,близко,None,None
+762,close,завершение,огороженное место,None
+763,closet,шкаф,None,None
+764,cloth,ткань,скатерть,None
+765,clothes,одежда,None,None
+766,clothe,одевать,None,None
+767,cloud,облако,None,None
+768,club,клуб,None,None
+769,clue,ключ (к разгадке чего-л.),None,None
+770,clumsy,неуклюжий,None,None
+771,coach,тренер,None,None
+772,coal,уголь,None,None
+773,coast,побережье,None,None
+774,coat,пальто,None,None
+775,coat,покрывать (краской и т. п.),None,None
+776,coax,"упрашивать (лаской, терпеливо и т. п.), уговаривать",None,None
+777,cobweb,паутина,None,None
+778,cock,петух,None,None
+779,coffin,гроб,None,None
+780,coherent,когерентный,None,None
+781,coin,монета,None,None
+782,coincide,нет перевода,None,None
+783,coincidence,совпадение,None,None
+784,cold,холод,None,None
+785,collaborate,сотрудничать,None,None
+786,collaboration,сотрудничество,None,None
+787,collapse,коллапс,крушение,None
+788,collar,воротник,None,None
+789,collect,собирать,None,None
+790,collective,коллективный,None,None
+791,collide,нет перевода,None,None
+792,collision,столкновение,None,None
+793,colour,цвет,None,None
+794,comb,прочёсывать,None,None
+795,combat,бороться,None,None
+796,combination,сочетание,None,None
+797,combine,комбинировать,None,None
+798,come about,появляться,возникать,случаться
+799,come across,случайно встретить(ся),быть воспринятым,None
+800,come along,появляться,сопровождать,идти вместе
+801,come,приходить,None,None
+802,comeback,возвращение,None,None
+803,comfort,комфорт,None,None
+804,comfort,утешить,None,None
+805,comfortable,удобный,None,None
+806,comma,запятая,None,None
+807,commandment,заповедь,None,None
+808,commend,рекомендовать,None,None
+809,comment,комментарий,None,None
+810,commerce,коммерция,None,None
+811,commission,комиссия,None,None
+812,commit,совершать,None,None
+813,commitment,обязанность,приверженность,None
+814,committee,комитет,None,None
+815,commodity,товар,None,None
+816,common,общий,None,None
+817,commonly,обычно,None,None
+818,commonplace,банальность,None,None
+819,commonwealth,содружество,None,None
+820,communicate,общаться,None,None
+821,communication,коммуникация,None,None
+822,community,сообщество,None,None
+823,companion,спутник,None,None
+824,comparable,сравнимый,None,None
+825,compare,сравнивать,None,None
+826,comparison,сравнение,None,None
+827,compassion,сострадание,None,None
+828,compatible,совместимый,None,None
+829,compel,принуждать,None,None
+830,compete,конкурировать,None,None
+831,competence,компетентность,None,None
+832,competent,компетентный,None,None
+833,competition,конкуренция,None,None
+834,competitive,"соперничающий, конкурирующий",None,None
+835,competitor,конкурент,None,None
+836,compile,компилировать,None,None
+837,complain,жаловаться,None,None
+838,complaint,жалоба,None,None
+839,complete,полный,None,None
+840,completion,завершение,None,None
+841,complex,комплекс,None,None
+842,complexity,сложность,None,None
+843,compliance,поведение в соответствие с требованиями,None,None
+844,complicate,усложнять,None,None
+845,complicated,сложный,None,None
+846,complication,осложнение,None,None
+847,comply,соблюдать,None,None
+848,compose,"составлять, компоновать",сочинять,None
+849,compound,соединение,None,None
+850,comprehend,постигать,None,None
+851,comprehensible,понятный,None,None
+852,comprehension,понимание,None,None
+853,comprehensive,комплексный,None,None
+854,comrade,товарищ,None,None
+855,conceal,скрыть,None,None
+856,concealment,утаивание,секрет,None
+857,concede,уступать,None,None
+858,conceit,тщеславие,None,None
+859,conceited,тщеславный,None,None
+860,conceivable,"мыслимый, постижимый",None,None
+861,conceive,зачать,None,None
+862,concentrate,концентрировать(ся),None,None
+863,concentration,концентрация,None,None
+864,concern,проблема,забота,None
+865,concern,относиться,беспокоить(ся),None
+866,concession,уступка,None,None
+867,conclude,завершать,заключать,None
+868,conclusion,вывод,None,None
+869,concrete,конкретный,None,None
+870,condemn,осуждать,None,None
+871,condition,состояние,None,None
+872,conduct,поведение,None,None
+873,confess,исповедовать,None,None
+874,confession,признание,None,None
+875,confide,довериться,None,None
+876,confidence,уверенность,None,None
+877,confident,уверенный,None,None
+878,confine,ограничивать,приковывать,None
+879,confirm,подтверждать,None,None
+880,confirmation,подтверждение,None,None
+881,confirmed,подтверждённый,None,None
+882,conform,соответствовать,None,None
+883,confound,посрамить,None,None
+884,confront,противостоять,None,None
+885,confuse,путать,смущать,None
+886,confusion,путаница,None,None
+887,conjecture,предположить,None,None
+888,connect,подключать,None,None
+889,connection,подключение,None,None
+890,conquer,покорять,None,None
+891,conquest,завоевание,None,None
+892,conscience,совесть,None,None
+893,conscious,сознательный,None,None
+894,consecutive,последовательный,None,None
+895,consent,согласие,None,None
+896,consequence,следствие,None,None
+897,conservative,"консерватор, реакционер",None,None
+898,consider,рассматривать,None,None
+899,considerable,значительный,None,None
+900,considerate,тактичный,None,None
+901,consideration,рассмотрение,None,None
+902,consist,состоять,None,None
+903,consistency,консистенция,None,None
+904,consistent,последовательный,None,None
+905,consolation,утешение,None,None
+906,console,утешить,None,None
+907,consolidation,консолидация,None,None
+908,conspiracy,заговор,None,None
+909,conspire,сговариваться,None,None
+910,constant,постоянный,None,None
+911,constitute,составлять,None,None
+912,construct,строить,None,None
+913,construction,строительство,None,None
+914,consult,консультировать(ся),None,None
+915,consume,потреблять,None,None
+916,consumer,потребитель,None,None
+917,consumption,потребление,None,None
+918,contact,контакт,None,None
+919,contain,содержать,None,None
+920,contemplate,созерцать,None,None
+921,contemporary,современный,None,None
+922,contempt,презрение,None,None
+923,contend,утверждать,бороться,None
+924,content,довольный (with),None,None
+925,content,содержание,None,None
+926,contention,утверждение,None,None
+927,contentious,спорный,None,None
+928,contest,оспорить,None,None
+929,contingency,случайность,None,None
+930,continual,постоянный,None,None
+931,continuation,продолжение,None,None
+932,continue,продолжать,None,None
+933,continuous,непрерывный,None,None
+934,contract,контракт,None,None
+935,contradict,противоречить,None,None
+936,contradiction,противоречие,None,None
+937,contribute,способствовать,None,None
+938,contribution,вклад,None,None
+939,contrive,затевать,None,None
+940,control,контроль,None,None
+941,controversial,спорный,None,None
+942,controversy,полемика,None,None
+943,convenience,удобство,None,None
+944,convenient,удобный,None,None
+945,conventional,обычный,None,None
+946,conversation,разговор,None,None
+947,converse,разговаривать,None,None
+948,conversion,преобразование,None,None
+949,convert,преобразовывать,трансформировать,None
+950,convex,нет перевода,None,None
+951,convey,передавать,None,None
+952,convict,обличить,None,None
+953,conviction,убеждение,None,None
+954,convince,убеждать,None,None
+955,cook,повар,None,None
+956,cool,прохладный,классный,None
+957,cooperate,нет перевода,None,None
+958,cooperation,сотрудничество,None,None
+959,cop,полицейский,None,None
+960,cope,справляться,None,None
+961,copper,медь,None,None
+962,copy,копия,None,None
+963,cord,шнур,None,None
+964,core,ядро,None,None
+965,corn,кукуруза,None,None
+966,corner,угол,None,None
+967,corny,банальный,None,None
+968,corpse,труп,None,None
+969,correct,исправлять,None,None
+970,correctness,правильность,None,None
+971,correspond,соответствовать,None,None
+972,corrode,разъедать,None,None
+973,corrupt,коррумпированный,испорченный,None
+974,corruption,коррупция,None,None
+975,cost,стоимость,None,None
+976,costly,дорогостоящий,None,None
+977,cotton,хлопок,None,None
+978,couch,кушетка,None,None
+979,cough,кашель,None,None
+980,council,совет,None,None
+981,counsel,адвокат,None,None
+982,count,считать,None,None
+983,count on,рассчитывать,полагаться на,None
+984,countenance,лицо,None,None
+985,counter,счётчик,None,None
+986,counter,противоположный,None,None
+987,counterfeit,подделка,None,None
+988,countless,бесчисленный,None,None
+989,country,страна,None,None
+990,countryside,сельская местность,None,None
+991,couple,пара,None,None
+992,courage,мужество,None,None
+993,course,курс,None,None
+994,court,суд,None,None
+995,courteous,вежливый,None,None
+996,courtesy,нет перевода,None,None
+997,cover,покрывать,None,None
+998,coverage,охват,None,None
+999,cow,корова,None,None
+1000,coward,трус,None,None
+1001,cowardice,трусость,None,None
+1002,crack,трещина,None,None
+1003,cradle,колыбель,None,None
+1004,craft,ремесло,None,None
+1005,crap,дерьмо,None,None
+1006,crash,авария,None,None
+1007,crave,жаждать,None,None
+1008,crawl,ползать,кишеть,None
+1009,crazy,сумасшедший,None,None
+1010,cream,крем,None,None
+1011,create,создавать,None,None
+1012,creation,создание,None,None
+1013,creative,творческий,None,None
+1014,creature,создание,None,None
+1015,credibility,достоверность,None,None
+1016,credible,вероятный,None,None
+1017,credit,приписывать (кому-л. совершение какого-л. действия),None,None
+1018,creed,кредо,None,None
+1019,creep,ползти,None,None
+1020,crew,экипаж,None,None
+1021,crime,преступление,None,None
+1022,criminal,преступник,None,None
+1023,cripple,калека,None,None
+1024,criticize,критиковать,None,None
+1025,crooked,кривой,None,None
+1026,crop,урожай,None,None
+1027,cross,пересечь,None,None
+1028,cross,крест,None,None
+1029,crotch,промежность,None,None
+1030,crouch,пресмыкаться,None,None
+1031,crow,кричать кукареку,None,None
+1032,crowd,толпа,None,None
+1033,crown,корона,None,None
+1034,crucial,"решающий (о моменте, опыте)",None,None
+1035,crude,нет перевода,None,None
+1036,cruel,жестокий,None,None
+1037,cruelty,жестокость,None,None
+1038,crumble,крошиться,None,None
+1039,crumb,крошка,None,None
+1040,crusade,крестовый поход,None,None
+1041,crush,дробить,сокрушать,уничтожать
+1042,cry,плакать,None,None
+1043,cucumber,нет перевода,None,None
+1044,cunning,хитрость,None,None
+1045,cup,чашка,None,None
+1046,curb,обуздать,None,None
+1047,cure,лечение,None,None
+1048,curiosity,любознательность,None,None
+1049,curious,любопытный,None,None
+1050,curl,завить,None,None
+1051,currency,валюта,None,None
+1052,current,течение,ток,None
+1053,curse,проклинать,None,None
+1054,curtain,занавес,None,None
+1055,curve,кривая,None,None
+1056,custom,обычай,None,None
+1057,customer,клиент,None,None
+1058,cut,"разрез, порез",None,None
+1059,cute,милый,None,None
+1060,cynical,циничный,None,None
+1061,dad,папа,None,None
+1062,dagger,кинжал,None,None
+1063,daily,ежедневно,None,None
+1064,damage,повреждение,None,None
+1065,damn,проклинать,None,None
+1066,dandy,денди,None,None
+1067,danger,опасность,None,None
+1068,dangerous,опасный,None,None
+1069,dangle,болтаться,None,None
+1070,dare,сметь,None,None
+1071,daring,смелый,None,None
+1072,dark,тёмный,None,None
+1073,darkness,тьма,None,None
+1074,darling,любимый,None,None
+1075,dart,дартс,None,None
+1076,dash,"бросить, швырнуть",None,None
+1077,data,данные,None,None
+1078,date,дата,свидание,None
+1079,dawn,рассвет,None,None
+1080,dead,мёртвый,None,None
+1081,deadline,срок,None,None
+1082,deadly,смертельный,None,None
+1083,deaf,глухой,None,None
+1084,deal,заниматься,торговать,иметь дело
+1085,dealer,дилер,None,None
+1086,death,смерть,None,None
+1087,debate,дискуссия,None,None
+1088,debt,долг,None,None
+1089,decade,десяток,десятилетие,None
+1090,decay,распад,None,None
+1091,deceit,обман,None,None
+1092,deceitful,лживый,None,None
+1093,deceive,обманывать,None,None
+1094,decency,порядочность,None,None
+1095,decent,приличный,None,None
+1096,deception,обман,None,None
+1097,deceptive,обманчивый,None,None
+1098,decide,решать,None,None
+1099,decision,решение,None,None
+1100,decisive,решающий,None,None
+1101,deck,палуба,None,None
+1102,declare,объявлять,None,None
+1103,decline,снижаться,None,None
+1104,decorate,украшать,None,None
+1105,decrease,снижение,None,None
+1106,decree,"издавать декрет, декретировать",None,None
+1107,decrepit,дряхлый,None,None
+1108,dedicated,преданный,None,None
+1109,dedication,посвящение,None,None
+1110,deduct,вычесть,None,None
+1111,deed,дело,None,None
+1112,deem,считать,None,None
+1113,deep,глубокий,None,None
+1114,deer,олень,None,None
+1115,defeat,поражение,None,None
+1116,defend,защищать,None,None
+1117,defense,защита,None,None
+1118,defer,откладывать,None,None
+1119,deficiency,дефицит,None,None
+1120,define,определять,None,None
+1121,definitely,определённо,None,None
+1122,definition,определение,None,None
+1123,defy,игнорировать,None,None
+1124,degenerate,вырождающийся,None,None
+1125,degrade,деградировать,None,None
+1126,degree,степень,None,None
+1127,delay,задержка,None,None
+1128,delete,нет перевода,None,None
+1129,deliberate,преднамеренный,None,None
+1130,deliberation,обсуждение,None,None
+1131,delicate,деликатный,None,None
+1132,delicious,вкусный,None,None
+1133,delight,восторг,None,None
+1134,deliver,доставлять,выступать (с докладом),None
+1135,delivery,доставка,None,None
+1136,delude,обманывать,None,None
+1137,delusion,заблуждение,None,None
+1138,demand,требование,спрос,None
+1139,demand,требовать,None,None
+1140,demean,унижать,None,None
+1141,demonstrate,демонстрировать,None,None
+1142,den,логово,None,None
+1143,denial,отказ,None,None
+1144,denote,обозначать,None,None
+1145,dece,осуждать,None,None
+1146,dense,плотный,None,None
+1147,deny,отрицать,None,None
+1148,depart,отходить,None,None
+1149,departure,отправление,None,None
+1150,depend,зависеть,None,None
+1151,dependence,зависимость,None,None
+1152,dependent,зависимый,подчинённый,None
+1153,depict,изображать,None,None
+1154,depose,низложить,None,None
+1155,deposit,депозит,None,None
+1156,depress,нажать,None,None
+1157,depression,депрессия,None,None
+1158,deprive,лишать,None,None
+1159,depth,глубина,None,None
+1160,deputy,заместитель,None,None
+1161,derive,получить,None,None
+1162,descend,спускаться,None,None
+1163,descendant,потомок,None,None
+1164,descent,спуск,происхождение,None
+1165,describe,описывать,None,None
+1166,description,описание,None,None
+1167,desert,пустыня,None,None
+1168,deserve,заслуживать,None,None
+1169,design,дизайн,None,None
+1170,designate,назначить,None,None
+1171,desirable,желательный,None,None
+1172,desire,желание,None,None
+1173,desk,стол,None,None
+1174,despair,отчаяние,None,None
+1175,desperate,отчаянный,None,None
+1176,desperation,отчаяние,None,None
+1177,despise,презирать,None,None
+1178,despite,злоба,None,None
+1179,destination,(пред)назначение,None,None
+1180,destine,нет перевода,None,None
+1181,destiny,судьба,None,None
+1182,destroy,уничтожать,None,None
+1183,destruction,разрушение,None,None
+1184,destructive,разрушительный,None,None
+1185,detach,отсоединить,None,None
+1186,detachment,отряд,None,None
+1187,detail,деталь,None,None
+1188,detain,задерживать,None,None
+1189,detect,обнаружить,None,None
+1190,deter,удерживать,None,None
+1191,determination,определение,None,None
+1192,determine,определять,None,None
+1193,determined,определённый,None,None
+1194,detest,ненавидеть,None,None
+1195,devastate,опустошать,None,None
+1196,develop,развивать,разрабатывать,None
+1197,development,развитие,None,None
+1198,device,устройство,None,None
+1199,devil,дьявол,None,None
+1200,devise,разрабатывать,None,None
+1201,devoid,нет перевода,None,None
+1202,devote,посвящать,None,None
+1203,devotion,преданность,None,None
+1204,devour,пожирать,None,None
+1205,diamond,алмаз,None,None
+1206,diary,дневник,None,None
+1207,dictionary,словарь,None,None
+1208,die,игральная кость,None,None
+1209,diet,диета,None,None
+1210,differ,отличаться,None,None
+1211,difference,разница,None,None
+1212,different,отличный,другой,None
+1213,difficult,трудный,None,None
+1214,difficulty,трудность,None,None
+1215,diffuse,диффундировать,None,None
+1216,dig,копать,None,None
+1217,digest,дайджест,None,None
+1218,dignity,достоинство,None,None
+1219,diligence,усердие,None,None
+1220,dilute,разбавить,None,None
+1221,dim,тусклый,None,None
+1222,diminish,уменьшить,None,None
+1223,dine,обедать,None,None
+1224,dinner,ужин,None,None
+1225,dip,окунуть,None,None
+1226,dire,страшный,None,None
+1227,direct,направить,None,None
+1228,direction,направление,None,None
+1229,dirt,грязь,None,None
+1230,dirty,грязный,None,None
+1231,disability,инвалидность,None,None
+1232,disable,запрещать,None,None
+1233,disagree,не соглашаться,не совпадать,противоречить
+1234,disagreeable,неприятный,None,None
+1235,disappear,исчезать,None,None
+1236,disappearance,исчезновение,None,None
+1237,disappoint,разочаровывать,None,None
+1238,disappointment,разочарование,None,None
+1239,disaster,катастрофа,None,None
+1240,disastrous,гибельный,None,None
+1241,discard,сбрасывание карт,None,None
+1242,discharge,разряд,None,None
+1243,disciple,ученик,None,None
+1244,disclaim,отказываться,None,None
+1245,disclose,раскрывать,None,None
+1246,disclosure,раскрытие,None,None
+1247,disconnect,отключить,None,None
+1248,discontent,недовольство,None,None
+1249,discount,скидка,None,None
+1250,discourage,отговаривать,None,None
+1251,discourse,дискурс,None,None
+1252,discourtesy,грубость,None,None
+1253,discover,открывать,None,None
+1254,discovery,открытие,None,None
+1255,discredit,дискредитировать,None,None
+1256,discreet,сдержанный,None,None
+1257,discretion,усмотрение,None,None
+1258,discriminate,"отличать, выделять",None,None
+1259,discuss,обсуждать,None,None
+1260,discussion,обсуждение,None,None
+1261,disdain,презрение,None,None
+1262,disease,болезнь,None,None
+1263,disfavor,немилость,None,None
+1264,disgrace,позор,None,None
+1265,disguise,скрыть,None,None
+1266,disgust,внушать отвращение,None,None
+1267,dish,блюдо,None,None
+1268,dishearten,"приводить в уныние, расхолаживать",None,None
+1269,dislike,испытывать неприязнь,None,None
+1270,dismiss,отвергать,увольнять,None
+1271,disobedience,неповиновение,None,None
+1272,disobey,"не повиноваться, не подчиняться, ослушаться",None,None
+1273,disorder,расстройство,None,None
+1274,disorderly,беспорядочный,None,None
+1275,disparity,несоответствие,None,None
+1276,dispel,развеять,None,None
+1277,dispense,распределять,None,None
+1278,disperse,расходиться,None,None
+1279,display,показывать,None,None
+1280,displease,не нравиться,None,None
+1281,disposal,удаление,None,None
+1282,dispose,располагать,None,None
+1283,dispute,спор,None,None
+1284,disregard,игнорировать,None,None
+1285,disrespect,неуважение,None,None
+1286,dissatisfy,не удовлетворять,None,None
+1287,dissent,несогласие,None,None
+1288,dissipate,рассеивать,None,None
+1289,dissolve,растворить,None,None
+1290,distance,расстояние,None,None
+1291,distant,удалённый,None,None
+1292,distaste,отвращение,None,None
+1293,distinct,отдельный,None,None
+1294,distinction,различие,None,None
+1295,distinguish,различать,None,None
+1296,distort,нет перевода,None,None
+1297,distract,отвлекать,None,None
+1298,distress,физическая боль,нужда,None
+1299,distribute,распространять,None,None
+1300,distribution,распределение,None,None
+1301,district,район,None,None
+1302,distrust,доверять,None,None
+1303,disturb,беспокоить,None,None
+1304,disturbance,нарушение,None,None
+1305,ditch,ров,None,None
+1306,dive,нырять,None,None
+1307,diverse,разнообразный,None,None
+1308,diversity,разнообразие,None,None
+1309,divert,отвлекать,None,None
+1310,divide,делить,None,None
+1311,divine,божественный,None,None
+1312,division,деление,отделение,None
+1313,divorce,развод,None,None
+1314,dock,док,None,None
+1315,dodge,увернуться,None,None
+1316,dole,раскладывать (на тарелки),None,None
+1317,domain,домен,None,None
+1318,dominant,доминирующий,None,None
+1319,dominate,доминировать,None,None
+1320,domination,доминирование,None,None
+1321,dominion,владычество,None,None
+1322,donate,нет перевода,None,None
+1323,donation,пожертвование,None,None
+1324,donkey,осёл,None,None
+1325,doom,рок,None,None
+1326,doorstep,нет перевода,None,None
+1327,doorway,дверной проем,None,None
+1328,dope,давать наркотики или допинг,None,None
+1329,dot,точка,None,None
+1330,double,двойной,None,None
+1331,doubt,сомневаться,None,None
+1332,doubtful,полный сомнений,None,None
+1333,doubtless,несомненно,None,None
+1334,downfall,крушение,None,None
+1335,downstairs,вниз,None,None
+1336,downward,вниз,None,None
+1337,draft,проект,None,None
+1338,drag,перетащить,None,None
+1339,dragon,дракон,None,None
+1340,drain,дренаж,None,None
+1341,drastic,решительный,None,None
+1342,draw,рисовать,None,None
+1343,drawback,недостаток,None,None
+1344,drawer,рисовальщик,выдвижной ящик,None
+1345,dread,страх,None,None
+1346,dreadful,страшный,ужасный,None
+1347,dream,мечта,None,None
+1348,dream,мечтать,None,None
+1349,dress,одеваться,None,None
+1350,drill,дрель,None,None
+1351,drip,капать,падать каплями,None
+1352,drive,ездить,None,None
+1353,drop,падать,None,None
+1354,drought,засуха,None,None
+1355,drown,тонуть,топить,None
+1356,drug,подмешивать наркотики или яд (в пищу),None,None
+1357,drum,барабан,None,None
+1358,drunk,нет перевода,None,None
+1359,drunkard,пьяница,None,None
+1360,drunkenness,пьянство,None,None
+1361,dry,сухой,None,None
+1362,duck,утка,None,None
+1363,dude,чувак,None,None
+1364,due,надлежащий,None,None
+1365,dull,тупой,None,None
+1366,dumb,тупой,None,None
+1367,dump,сбрасывать,None,None
+1368,dupe,простофиля,None,None
+1369,duplicate,дубликат,None,None
+1370,duplicity,двуличие,None,None
+1371,durable,прочный,None,None
+1372,duration,продолжительность,None,None
+1373,dust,пыль,None,None
+1374,duty,долг,None,None
+1375,dwarf,карлик,None,None
+1376,dwell,жить,None,None
+1377,dye,краситель,None,None
+1378,dynamic,нет перевода,None,None
+1379,other,другой,None,None
+1380,eager,нетерпеливый,None,None
+1381,eagerness,рвение,None,None
+1382,eagle,орёл,None,None
+1383,ear,ухо,None,None
+1384,early,рано,None,None
+1385,earn,зарабатывать,None,None
+1386,earnest,серьёзный,None,None
+1387,earning,нет перевода,None,None
+1388,earring,нет перевода,None,None
+1389,earth,земля,None,None
+1390,earthquake,землетрясение,None,None
+1391,ease,лёгкость,None,None
+1392,east,восток,None,None
+1393,echo,эхо,None,None
+1394,eclipse,затмение,None,None
+1395,economics,экономика,None,None
+1396,economy,экономика,None,None
+1397,ecstasy,экстаз,None,None
+1398,edge,край,None,None
+1399,edgy,острый,None,None
+1400,edible,съедобный,None,None
+1401,edify,наставлять,None,None
+1402,edit,редактировать,None,None
+1403,educate,воспитывать,обучать,None
+1404,education,образование,None,None
+1405,effect,эффект,None,None
+1406,effective,эффективный,None,None
+1407,efficiency,эффективность,None,None
+1408,efficient,эффективный,None,None
+1409,effort,усилия,None,None
+1410,elaborate,разрабатывать,None,None
+1411,elbow,локоть,None,None
+1412,elder,старший,None,None
+1413,elect,избрать,None,None
+1414,election,выборы,выбор,None
+1415,electricity,электричество,None,None
+1416,elephant,слон,None,None
+1417,elevator,лифт,None,None
+1418,eligible,имеющий право,None,None
+1419,eliminate,ликвидировать,None,None
+1420,elimination,устранение,None,None
+1421,eloquence,красноречие,None,None
+1422,eloquent,красноречивый,None,None
+1423,else,ещё,кроме,None
+1424,elsewhere,где-то в другом месте,None,None
+1425,embark,приступить,None,None
+1426,embarrass,смущать,None,None
+1427,embarrassment,смущение,None,None
+1428,embassy,посольство,None,None
+1429,embrace,объятие,None,None
+1430,emerge,нет перевода,None,None
+1431,emergency,непредвиденный случай,None,None
+1432,eminent,выдающийся,None,None
+1433,emperor,император,None,None
+1434,emphasis,акцент,None,None
+1435,empire,империя,None,None
+1436,employ,нанимать,использовать,None
+1437,employer,работодатель,None,None
+1438,employment,занятость,None,None
+1439,empty,пустой,None,None
+1440,enable,давать возможность,None,None
+1441,enact,принимать,None,None
+1442,enchant,очаровывать,None,None
+1443,enclose,заключать,None,None
+1444,encounter,сталкиваться,None,None
+1445,encourage,поощрять,None,None
+1446,end,конец,None,None
+1447,endanger,подвергать опасности,None,None
+1448,endeavor,нет перевода,None,None
+1449,endless,бесконечный,None,None
+1450,endorse,нет перевода,None,None
+1451,endowment,фонд,None,None
+1452,endpoint,конечная точка,None,None
+1453,endurance,выносливость,None,None
+1454,endure,терпеть,None,None
+1455,enemy,враг,None,None
+1456,energetic,энергичный,None,None
+1457,enfold,окутать,None,None
+1458,enforce,оказывать давление,принуждать,None
+1459,engage,заниматься,вовлекать,None
+1460,engagement,участие,None,None
+1461,engine,двигатель,None,None
+1462,engineering,прикладной (о науке),None,None
+1463,engross,поглощать,None,None
+1464,engulf,нет перевода,None,None
+1465,enhance,повышать,None,None
+1466,enigma,загадка,None,None
+1467,enjoy,наслаждаться,None,None
+1468,enjoyment,наслаждение,None,None
+1469,enlarge,увеличить,None,None
+1470,enmity,вражда,None,None
+1471,enormous,огромный,None,None
+1472,enrich,обогащать,None,None
+1473,ensue,вытекать,None,None
+1474,ensure,гарантировать,None,None
+1475,entail,влечь за собой,None,None
+1476,entangle,спутать,None,None
+1477,enter,входить,None,None
+1478,enterprise,предприятие,None,None
+1479,entertain,развлекать,None,None
+1480,entertainment,развлечение,None,None
+1481,entire,полный,весь,None
+1482,entirely,полностью,None,None
+1483,entitle,"называть, давать название",None,None
+1484,entity,организация,None,None
+1485,entrance,вход,None,None
+1486,entrust,доверять,None,None
+1487,entry,вход,None,None
+1488,envelope,конверт,None,None
+1489,envious,завистливый,None,None
+1490,environment,среда,None,None
+1491,environmental,относящийся к окружающей среде,None,None
+1492,envoy,посланник,None,None
+1493,envy,завидовать,None,None
+1494,equal,равный,None,None
+1495,equality,равенство,None,None
+1496,equalize,уравнять,None,None
+1497,equilibrium,равновесие,None,None
+1498,equip,оборудовать,None,None
+1499,equipment,оборудование,None,None
+1500,equitable,справедливый,None,None
+1501,erase,стирать,None,None
+1502,erect,возводить,None,None
+1503,erode,разрушать,None,None
+1504,err,"ошибаться, заблуждаться",None,None
+1505,errand,поручение,None,None
+1506,error,ошибка,None,None
+1507,escape,убежать,None,None
+1508,especially,особенно,None,None
+1509,espionage,шпионаж,None,None
+1510,essence,сущность,None,None
+1511,essential,необходимый,неотъемлимый,None
+1512,establish,установить,None,None
+1513,establishment,создание,None,None
+1514,esteem,достоинство,None,None
+1515,estimate,оценка,None,None
+1516,eternal,вечный,None,None
+1517,eternity,вечность,None,None
+1518,evade,уклоняться,None,None
+1519,evaluate,оценивать,None,None
+1520,evaluation,оценка,None,None
+1521,even,даже,ровно,None
+1522,event,событие,None,None
+1523,eventually,в конечном счёте,в итоге,None
+1524,ever,когда-либо,None,None
+1525,everlasting,вечный,None,None
+1526,everywhere,везде,None,None
+1527,evidence,доказательство,None,None
+1528,evident,"очевидный, ясный",None,None
+1529,evil,зло,None,None
+1530,evolve,развиваться,None,None
+1531,exact,точный,None,None
+1532,exaggerate,преувеличивать,None,None
+1533,exaggeration,преувеличение,None,None
+1534,exalted,возвышенный,None,None
+1535,examination,экспертиза,None,None
+1536,examine,исследовать,None,None
+1537,example,пример,None,None
+1538,exceed,превышать,None,None
+1539,excel,превосходить,None,None
+1540,excellence,превосходство,None,None
+1541,excellent,превосходный,отличный,None
+1542,exception,исключение,None,None
+1543,exceptional,исключительный,None,None
+1544,excess,избыток,None,None
+1545,excessive,чрезмерный,None,None
+1546,exchange,обмен,None,None
+1547,excite,возбуждать,None,None
+1548,excitement,возбуждение,волнение,None
+1549,exclamation,нет перевода,None,None
+1550,exclude,исключить,None,None
+1551,exclusion,исключение,None,None
+1552,excusable,простительный,None,None
+1553,excuse,оправдание,None,None
+1554,excuse,извинять,None,None
+1555,execute,выполнять,None,None
+1556,execution,выполнение,казнь,None
+1557,executive,исполнительный,None,None
+1558,exempt,"освобождённый (от налога, военной службы и т. п.)",None,None
+1559,exercise,проявлять,тренировать,None
+1560,exert,вызывать,None,None
+1561,exertion,напряжение,None,None
+1562,exhaust,исчерпывать,None,None
+1563,exhaustion,истощение,None,None
+1564,exhibit,выставлять,None,None
+1565,exile,изгнание,None,None
+1566,exist,существовать,None,None
+1567,existence,существование,None,None
+1568,existent,нет перевода,None,None
+1569,exit,выход,None,None
+1570,expand,расширять,None,None
+1571,expansion,расширение,None,None
+1572,expect,ожидать,None,None
+1573,expectation,ожидание,None,None
+1574,expel,высылать,None,None
+1575,expenditure,расход,None,None
+1576,expense,расходы,None,None
+1577,expensive,дорогой,None,None
+1578,experience,опыт,None,None
+1579,experienced,опытный,None,None
+1580,expert,опытный,искусный,None
+1581,expertise,нет перевода,None,None
+1582,expire,истекать,None,None
+1583,explain,объяснить,None,None
+1584,explanation,объяснение,None,None
+1585,explicit,явный,None,None
+1586,explode,взрываться,None,None
+1587,exploit,деяние,подвиг,None
+1588,explore,исследовать,None,None
+1589,explosion,взрыв,None,None
+1590,explosive,нет перевода,None,None
+1591,expose,подвергать,None,None
+1592,exposure,экспозиция,None,None
+1593,express,выражать,None,None
+1594,expression,выражение,None,None
+1595,extend,расширять,продлевать,None
+1596,extension,расширение,None,None
+1597,extensive,обширный,None,None
+1598,extent,степень,None,None
+1599,exterior,внешний,None,None
+1600,exterminate,истреблять,None,None
+1601,external,внешний,None,None
+1602,extinct,потухший,None,None
+1603,extinction,вымирание,None,None
+1604,extinguish,потушить,None,None
+1605,extra,дополнительный,None,None
+1606,extract,извлекать,None,None
+1607,extraordinary,выдающийся,None,None
+1608,extreme,экстремальный,None,None
+1609,eyebrow,бровь,None,None
+1610,eyeglass,монокль,None,None
+1611,fable,басня,None,None
+1612,fabric,ткань,None,None
+1613,fabulous,невероятный,None,None
+1614,face,лицо,None,None
+1615,facility,лёгкость (речи),оснащение,None
+1616,factory,завод,None,None
+1617,faculty,факультет,None,None
+1618,fade,увядать,None,None
+1619,fail,терпеть неудачу,None,None
+1620,failure,неудача,None,None
+1621,faint,слабый,None,None
+1622,fair,честный,None,None
+1623,fairy,фея,None,None
+1624,faith,вера,None,None
+1625,faithful,верный,None,None
+1626,fake,подделать,None,None
+1627,fall,падение,None,None
+1628,fallacy,заблуждение,None,None
+1629,false,ложный,None,None
+1630,falsehood,ложь,None,None
+1631,falsity,ложность,None,None
+1632,falter,колебаться,None,None
+1633,fame,слава,None,None
+1634,familiar,знакомый,None,None
+1635,famine,голод,None,None
+1636,famous,известный,None,None
+1637,fancy,фантазия,None,None
+1638,fancy,"полагать, предполагать",None,None
+1639,far,далеко,давно,None
+1640,faraway,нет перевода,None,None
+1641,fare,"стоимость проезда, плата за проезд",None,None
+1642,farewell,прощание,None,None
+1643,farm,ферма,None,None
+1644,farther,более отдалённый,None,None
+1645,fascinate,восхищать,очаровывать,None
+1646,fascination,очарование,None,None
+1647,fascist,нет перевода,None,None
+1648,fashion,вылепить,None,None
+1649,fashionable,модный,None,None
+1650,fast,пост,"швартов, причал",None
+1651,fasten,закрепить,None,None
+1652,fat,жирный,None,None
+1653,fatal,роковой,None,None
+1654,fate,судьба,None,None
+1655,fat-free,обезжиренный,None,None
+1656,fatigue,усталость,None,None
+1657,faucet,кран,None,None
+1658,fault,ошибка,None,None
+1659,faultless,безупречный,None,None
+1660,favour,одобрение,благосклонность,None
+1661,favorable,благоприятный,None,None
+1662,favourite,любимец,None,None
+1663,fear,страх,None,None
+1664,fearful,страшный,None,None
+1665,fearless,бесстрашный,None,None
+1666,feast,праздник,торжество,None
+1667,feat,подвиг,None,None
+1668,feather,перо,None,None
+1669,feature,функция,особенность,None
+1670,fee,плата,None,None
+1671,feeble,хилый,слабохарактерный,ничтожный
+1672,feed,подача,None,None
+1673,feed,кормить,None,None
+1674,feel,чувствовать,None,None
+1675,feeling,чувство,None,None
+1676,feign,симулировать,None,None
+1677,fellow,парень,None,None
+1678,female,женский,None,None
+1679,fence,забор,None,None
+1680,ferocious,свирепый,None,None
+1681,ferry,паром,None,None
+1682,fertile,плодородный,None,None
+1683,fetch,получать,None,None
+1684,fever,лихорадка,None,None
+1685,fiction,фикция,None,None
+1686,fiddle,скрипка,None,None
+1687,fidelity,верность,None,None
+1688,field,поле,None,None
+1689,fierce,жестокий,None,None
+1690,fiery,огненный,None,None
+1691,fight,бороться,сражаться,ссориться
+1692,figure,фигура,рисунок,None
+1693,file,файл,папка,дело
+1694,fill,заполнять,None,None
+1695,filthy,грязный,None,None
+1696,final,окончательный,None,None
+1697,find out,выяснять,обнаруживать,None
+1698,fine,мелкий,утончённый,прекрасный
+1699,fine,штраф,None,None
+1700,finger,палец,None,None
+1701,finite,конечный,None,None
+1702,fireman,пожарный,None,None
+1703,firm,фирма,None,None
+1704,fish,рыба,None,None
+1705,fisherman,рыбак,None,None
+1706,fishing,рыбалка,None,None
+1707,fist,кулак,None,None
+1708,fit,"припадок, пароксизм, приступ","пригонка, посадка",None
+1709,fix,исправлять,None,None
+1710,flag,флаг,None,None
+1711,flair,нет перевода,None,None
+1712,flake,хлопья,сушилка для рыбы,None
+1713,flame,пламя,None,None
+1714,flash,вспышка,None,None
+1715,flat,плоский,ровный,None
+1716,flatter,льстить,None,None
+1717,flattery,лесть,None,None
+1718,flavor,вкус,None,None
+1719,flaw,недостаток,None,None
+1720,flea,блоха,None,None
+1721,flee,убегать,None,None
+1722,fleet,плыть по поверхности,None,None
+1723,flesh,плоть,None,None
+1724,flexibility,гибкость,None,None
+1725,flexible,гибкий,None,None
+1726,flight,полёт,None,None
+1727,fling,"бросание, швыряние",None,None
+1728,float,поплавок,None,None
+1729,flock,стадо,None,None
+1730,flood,наводнение,None,None
+1731,floor,этаж,None,None
+1732,flop,провал,None,None
+1733,flour,мука,None,None
+1734,flourish,загогулина,None,None
+1735,flow,течь,None,None
+1736,flower,цветок,None,None
+1737,fluent,беглый,None,None
+1738,fluid,"жидкий, текучий",None,None
+1739,flunk,провалить(ся) на экзамене,None,None
+1740,flurry,шквал,None,None
+1741,flush,заподлицо,None,None
+1742,flutter,флаттер,None,None
+1743,fly,летать,None,None
+1744,foam,пена,None,None
+1745,focus,фокус,None,None
+1746,foe,враг,None,None
+1747,fog,туман,None,None
+1748,fold,складка,None,None
+1749,folk,люди,народ,None
+1750,follow,следовать,None,None
+1751,follower,последователь,None,None
+1752,folly,глупость,None,None
+1753,fond,любящий,None,None
+1754,food,еда,None,None
+1755,fool,дурак,None,None
+1756,foolish,глупый,None,None
+1757,foot,нога,фут,None
+1758,phr.for instance,например,None,None
+1759,phr.for the sake of,ради,во имя,None
+1760,forbid,запрещать,None,None
+1761,force,сила,None,None
+1762,forcibly,насильно,None,None
+1763,forebode,нет перевода,None,None
+1764,forecast,прогноз,None,None
+1765,forefather,праотец,None,None
+1766,forehead,лоб,None,None
+1767,foreign,иностранный,None,None
+1768,foreigner,иностранец,None,None
+1769,foremost,"передний, передовой",None,None
+1770,foresee,предвидеть,None,None
+1771,foresight,предвидение,None,None
+1772,forest,лес,None,None
+1773,foretell,предсказать,None,None
+1774,forever,навсегда,None,None
+1775,forfeit,неустойка,None,None
+1776,forge,ковать,None,None
+1777,forgivable,простительный,None,None
+1778,forgive,прощать,None,None
+1779,forgiveness,прощение,None,None
+1780,fork,вилка,None,None
+1781,former,бывший,первый (из двух),None
+1782,formidable,грозный,None,None
+1783,fornication,блуд,None,None
+1784,forsake,оставлять,покидать,None
+1785,forth,вперёд,None,None
+1786,fortify,укреплять,None,None
+1787,fortunate,удачливый,None,None
+1788,fortune,состояние,None,None
+1789,foster,приёмная,None,None
+1790,foul,грязный,отвратительный,вонючий
+1791,foundation,фундамент,None,None
+1792,fountain,фонтан,None,None
+1793,fox,лиса,None,None
+1794,fracture,перелом,None,None
+1795,fragile,хрупкий,None,None
+1796,frame,рамка,None,None
+1797,framework,структура,каркас,None
+1798,frank,откровенный,None,None
+1799,frantic,неистовый,None,None
+1800,fraud,мошенничество,None,None
+1801,freak,урод,None,None
+1802,free,свободный,None,None
+1803,freedom,свобода,None,None
+1804,freeze,замораживать,None,None
+1805,frequent,частый,None,None
+1806,fresh,свежий,None,None
+1807,fret,беспокоиться,None,None
+1808,friendly,дружелюбный,None,None
+1809,friendship,дружба,None,None
+1810,fright,испуг,None,None
+1811,frighten,пугать,None,None
+1812,frightful,страшный,None,None
+1813,frivolous,легкомысленный,None,None
+1814,frog,лягушка,None,None
+1815,front,передняя часть,None,None
+1816,frontier,граница,None,None
+1817,frost,мороз,None,None
+1818,frown,сдвинутые брови,None,None
+1819,fruit,фрукт,None,None
+1820,frustrate,сорвать,None,None
+1821,frustration,разочарование,None,None
+1822,fry,мелкая рыбёшка,жареное мясо,None
+1823,fuck,половой акт,None,None
+1824,fuel,топливо,None,None
+1825,fugitive,беглец,None,None
+1826,fulfil,выполнять,None,None
+1827,full,полный,None,None
+1828,fund,фонд,None,None
+1829,funeral,похороны,None,None
+1830,funny,смешной,None,None
+1831,fur,мех,None,None
+1832,furious,"взбешённый, неистовый",None,None
+1833,furnish,снабжать (with),None,None
+1834,furniture,мебель,None,None
+1835,further,дальнейший,None,None
+1836,furthermore,к тому же,кроме того,None
+1837,fury,ярость,None,None
+1838,future,будущее,None,None
+1839,gain,получать,None,None
+1840,gallant,галантный,None,None
+1841,gamble,играть в азартные игры,None,None
+1842,game,игра,None,None
+1843,gang,банда,None,None
+1844,gap,разрыв,зазор,None
+1845,garbage,мусор,None,None
+1846,garden,сад,None,None
+1847,garment,одежда,None,None
+1848,gas,газ,None,None
+1849,station,станция,None,None
+1850,gasoline,бензин,None,None
+1851,gasp,удушье,None,None
+1852,gate,ворота,None,None
+1853,gather,собирать,None,None
+1854,gay,гомосексуальный,None,None
+1855,gaze,взгляд,None,None
+1856,gear,механизм,шестерня,None
+1857,gender,пол,None,None
+1858,general,общий,None,None
+1859,generalization,обобщение,None,None
+1860,generally,как правило,вообще,None
+1861,generation,поколение,"генерация (энергии, тока)",None
+1862,generosity,щедрость,None,None
+1863,generous,щедрый,None,None
+1864,genius,гений,None,None
+1865,gentle,нежный,None,None
+1866,genuine,подлинный,None,None
+1867,gesture,жест,None,None
+1868,get,получить,None,None
+1869,get away,уйти,удрать,ускользнуть
+1870,get down,опустить(ся),None,None
+1871,get in,попадать,прибывать,заходить
+1872,get into,попасть,войти,увлечься
+1873,get out,уходить,выходить,вынимать
+1874,rid,избавиться,None,None
+1875,ghastly,страшный,None,None
+1876,ghost,призрак,None,None
+1877,giant,гигант,None,None
+1878,gift,подарок,None,None
+1879,gild,позолотить,None,None
+1880,give,давать,None,None
+1881,glacier,ледник,None,None
+1882,glad,довольный,None,None
+1883,glance,взгляд,None,None
+1884,glass,стекло,None,None
+1885,gleam,блеск,None,None
+1886,glimpse,проблеск,None,None
+1887,glitter,блеск,None,None
+1888,globe,глобус,None,None
+1889,gloom,мрак,None,None
+1890,glorious,славный,None,None
+1891,glory,слава,великолепие,None
+1892,gloss,глянец,None,None
+1893,glove,перчатка,None,None
+1894,glow,свечение,None,None
+1895,glue,клей,None,None
+1896,goal,цель,None,None
+1897,goat,козёл,коза,None
+1898,god,бог,None,None
+1899,goddess,богиня,None,None
+1900,gold,золото,None,None
+1901,golden,золотой,None,None
+1902,good,хороший,None,None
+1903,goose,гусь,None,None
+1904,gorgeous,великолепный,None,None
+1905,gospel,евангелие,None,None
+1906,gossip,сплетня,None,None
+1907,govern,управлять,None,None
+1908,government,правительство,None,None
+1909,governor,губернатор,None,None
+1910,grab,захват,None,None
+1911,grace,украсить,None,None
+1912,graceful,изящный,None,None
+1913,gracious,добрый,None,None
+1914,grade,степень,оценка,None
+1915,gradual,постепенный,None,None
+1916,graduate,выпускник,None,None
+1917,grain,зерно,None,None
+1918,grand,великий,None,None
+1919,grant,предоставлять,None,None
+1920,grape,нет перевода,None,None
+1921,grasp,понимание,None,None
+1922,grass,трава,None,None
+1923,grateful,благодарный,None,None
+1924,gratify,ублажать,None,None
+1925,gratitude,благодарность,None,None
+1926,grave,могила,None,None
+1927,gravity,вес,None,None
+1928,graze,пастись,None,None
+1929,grease,смазка,None,None
+1930,great,большой,потрясающий,None
+1931,greedy,жадный,None,None
+1932,greet,приветствовать,None,None
+1933,greeting,приветствие,None,None
+1934,grief,горе,беда,None
+1935,grieve,горевать,None,None
+1936,grim,мрачный,None,None
+1937,grin,усмехнуться,None,None
+1938,grind,молоть,None,None
+1939,grip,схватывание,рукоять,None
+1940,gross,брутто,None,None
+1941,grow,расти,None,None
+1942,grow up,взрослеть,становиться взрослым,вырастать
+1943,growl,рычать,None,None
+1944,grown-up,взрослый,None,None
+1945,growth,рост,None,None
+1946,grudge,недовольство,None,None
+1947,grumble,ворчать,None,None
+1948,guarantee,гарантия,None,None
+1949,guard,охранять,None,None
+1950,guardian,опекун,None,None
+1951,guerrilla,партизан,None,None
+1952,guess,догадываться,полагать,None
+1953,guest,гость,None,None
+1954,guide,руководство,None,None
+1955,guilt,вина,None,None
+1956,guilty,виновный,None,None
+1957,gulf,пропасть,None,None
+1958,gun,пистолет,None,None
+1959,gunpowder,порох,None,None
+1960,guy,нет перевода,None,None
+1961,gypsy,цыган,None,None
+1962,habit,привычка,None,None
+1963,habitual,привычный,None,None
+1964,hack,рубить,None,None
+1965,hail,град,возгласы приветствия,None
+1966,hair,волосы,None,None
+1967,haircut,нет перевода,None,None
+1968,half,наполовину,None,None
+1969,halfway,на полпути,None,None
+1970,hall,зал,None,None
+1971,halt,останавливать(ся),None,None
+1972,halve,нет перевода,None,None
+1973,hammer,молоток,None,None
+1974,handful,горсть,None,None
+1975,handle,обрабатывать,None,None
+1976,handshake,рукопожатие,None,None
+1977,handsome,красивый,None,None
+1978,handy,удобный (для пользования),None,None
+1979,hang,вешать,None,None
+1980,hang around,слоняться без дела,бездельничать,None
+1981,hang up,вешать,положить трубку,None
+1982,hangman,палач,None,None
+1983,hangover,похмелье,None,None
+1984,happen,происходить,None,None
+1985,happiness,счастье,None,None
+1986,harass,беспокоить,приставать,None
+1987,harbour,гавань,None,None
+1988,hard,жёсткий,трудный,None
+1989,hard,твёрдо,None,None
+1990,harden,затвердеть,None,None
+1991,hardly,едва,с трудом,None
+1992,hare,заяц,None,None
+1993,harm,вред,None,None
+1994,harmful,вредный,None,None
+1995,harmless,безвредный,безобидный,None
+1996,harsh,суровый,None,None
+1997,harvest,урожай,None,None
+1998,haste,поспешность,None,None
+1999,hasten,спешить,None,None
+2000,hasty,поспешный,None,None
+2001,hat,шляпа,None,None
+2002,hatchet,топор,None,None
+2003,hateful,ненавистный,None,None
+2004,hatred,ненависть,None,None
+2005,haul,тащить,None,None
+2006,haunt,преследовать,None,None
+2007,hawk,ястреб,None,None
+2008,hay,сено,None,None
+2009,hazard,опасность,None,None
+2010,headline,заголовок,None,None
+2011,heal,нет перевода,None,None
+2012,health,здоровье,None,None
+2013,healthcare,здравоохранение,None,None
+2014,healthy,здоровый,None,None
+2015,heap,куча,None,None
+2016,heart,сердце,None,None
+2017,heartless,бессердечный,None,None
+2018,heat,тепло,None,None
+2019,heaven,небеса,рай,None
+2020,heavy,тяжёлый,None,None
+2021,hedge,(живая) изгородь,None,None
+2022,heed,нет перевода,None,None
+2023,heel,каблук,None,None
+2024,height,высота,None,None
+2025,heir,наследник,None,None
+2026,helicopter,вертолёт,None,None
+2027,hell,ад,None,None
+2028,helmet,шлем,None,None
+2029,helpful,полезный,None,None
+2030,helpless,беспомощный,None,None
+2031,hemisphere,полушарие,None,None
+2032,hemp,конопля,None,None
+2033,hen,курица,None,None
+2034,hence,отсюда,поэтому,None
+2035,herald,вестник,None,None
+2036,herb,трава,None,None
+2037,herd,стадо,None,None
+2038,hereafter,"затем, дальше (в статье, книге и т. п.)",None,None
+2039,heresy,ересь,None,None
+2040,heretic,еретик,None,None
+2041,hero,герой,None,None
+2042,hesitant,нет перевода,None,None
+2043,hesitate,колебаться,None,None
+2044,hesitation,колебание,None,None
+2045,hidden,скрытый,None,None
+2046,hide,укрытие,тайник,None
+2047,hideous,отвратительный,None,None
+2048,high,высокий,None,None
+2049,highway,шоссе,None,None
+2050,hill,холм,None,None
+2051,hinder,задний,None,None
+2052,hindrance,помеха,None,None
+2053,hint,намёк,None,None
+2054,hire,нанимать,None,None
+2055,hiss,шипение,None,None
+2056,historian,историк,None,None
+2057,historical,исторический,None,None
+2058,history,история,None,None
+2059,hit,хит,None,None
+2060,hit,ударять,попадать,None
+2061,hitch,затруднение,заминка,None
+2062,hoard,запасать,припрятывать,None
+2063,hoarse,хриплый,None,None
+2064,hoax,обман,None,None
+2065,hold,держать,None,None
+2066,hold,схватывание,хранилище,убежище
+2067,hole,отверстие,None,None
+2068,holiday,праздник,None,None
+2069,hollow,пустота,None,None
+2070,holy,святой,None,None
+2071,homeland,родина,None,None
+2072,homeless,бездомный,None,None
+2073,homely,домашний,None,None
+2074,honest,честный,None,None
+2075,honesty,честность,None,None
+2076,honey,мёд,None,None
+2077,honeymoon,медовый месяц,None,None
+2078,honour,честь,None,None
+2079,honourable,почётный,None,None
+2080,hook,зацепить,сгибать(ся) в виде крюка,None
+2081,hop,"прыжок, припрыгивание",хмель,None
+2082,hope,надеяться,None,None
+2083,hopeful,надеющийся,None,None
+2084,hopeless,безнадёжный,None,None
+2085,horizon,горизонт,None,None
+2086,horn,рог,None,None
+2087,horrible,ужасный,None,None
+2088,horror,ужас,None,None
+2089,horse,лошадь,None,None
+2090,hospital,больница,None,None
+2091,hospitality,гостеприимство,None,None
+2092,host,хозяин,None,None
+2093,hostage,заложник,None,None
+2094,hostile,враждебный,None,None
+2095,hostility,враждебность,None,None
+2096,hot,горячий,None,None
+2097,hound,гончая,None,None
+2098,household,семья,None,None
+2099,however,тем не менее,None,None
+2100,howl,вой,None,None
+2101,hug,обнять,None,None
+2102,huge,огромный,None,None
+2103,human,человеческий,None,None
+2104,humanity,человечество,None,None
+2105,humble,скромный,None,None
+2106,humbug,обман,None,None
+2107,humiliate,унижать,None,None
+2108,humiliation,унижение,None,None
+2109,humility,смирение,None,None
+2110,humour,юмор,None,None
+2111,hump,горб,None,None
+2112,hunger,голод,None,None
+2113,hungry,голодный,None,None
+2114,hunt,охота,None,None
+2115,hunter,охотник,None,None
+2116,hurl,метать,None,None
+2117,hurricane,ураган,None,None
+2118,hurry,спешка,None,None
+2119,hurt,нет перевода,None,None
+2120,husband,муж,None,None
+2121,husk,шелуха,None,None
+2122,hustle,толкнуть,None,None
+2123,hut,хижина,None,None
+2124,hype,обман,None,None
+2125,hypocrisy,лицемерие,None,None
+2126,ice,лёд,None,None
+2127,idea,идея,None,None
+2128,identical,идентичный,None,None
+2129,identify,идентифицировать,None,None
+2130,identity,идентичность,None,None
+2131,idle,холостой,None,None
+2132,idleness,безделье,None,None
+2133,ignoble,подлый,None,None
+2134,ignorance,невежество,None,None
+2135,ignorant,невежественный,None,None
+2136,ignore,игнорировать,None,None
+2137,ill,плохо,None,None
+2138,illegal,незаконный,None,None
+2139,illiteracy,неграмотность,None,None
+2140,illiterate,неграмотный,None,None
+2141,illness,болезнь,None,None
+2142,illuminate,освещать,None,None
+2143,image,изображение,None,None
+2144,imaginary,мнимый,None,None
+2145,imagination,воображение,None,None
+2146,imagine,представлять,None,None
+2147,imitate,подражать,None,None
+2148,immeasurable,неизмеримый,None,None
+2149,immediate,непосредственный,None,None
+2150,immense,огромный,None,None
+2151,immerse,нет перевода,None,None
+2152,immersion,погружение,None,None
+2153,imminent,неизбежный,None,None
+2154,immortal,бессмертный,None,None
+2155,immortality,бессмертие,None,None
+2156,immunity,иммунитет,None,None
+2157,immutable,непреложный,None,None
+2158,impact,воздействие,None,None
+2159,impartial,беспристрастный,None,None
+2160,impatient,нетерпеливый,None,None
+2161,impel,побуждать,None,None
+2162,impend,надвигаться,None,None
+2163,impenetrable,непроницаемый,None,None
+2164,imperceptible,незаметный,None,None
+2165,impersonal,безличный,None,None
+2166,implement,реализация,None,None
+2167,implementation,реализация,None,None
+2168,imply,подразумевать,None,None
+2169,importance,важность,None,None
+2170,important,важный,None,None
+2171,impose,налагать,None,None
+2172,impossible,невозможный,None,None
+2173,impoverish,обеднять,None,None
+2174,impress,производить впечатление,отпечатывать,None
+2175,impression,впечатление,None,None
+2176,impressive,впечатляющий,None,None
+2177,imprison,заключать в тюрьму,None,None
+2178,improbable,невероятный,None,None
+2179,improper,неподходящий,None,None
+2180,improve,улучшать,None,None
+2181,improvement,улучшение,None,None
+2182,impudent,наглый,None,None
+2183,impulse,импульс,None,None
+2184,advance,прогресс,продвижение,None
+2185,phr.in front of,перед,None,None
+2186,phr.in order to,чтобы,None,None
+2187,return,возвращение,None,None
+2188,phr.in spite of,несмотря на,None,None
+2189,phr.in vain,напрасно,впустую,None
+2190,inability,неспособность,None,None
+2191,inaccurate,неточный,None,None
+2192,inaction,бездействие,None,None
+2193,inactivity,бездействие,None,None
+2194,inadequate,не отвечающий требованиям,None,None
+2195,inappropriate,нет перевода,None,None
+2196,incapable,неспособный,None,None
+2197,incentive,побудительный,None,None
+2198,inch,дюйм,None,None
+2199,incident,инцидент,None,None
+2200,incite,подстрекать,None,None
+2201,incline,склонять(ся),наклонять(ся),побуждать
+2202,include,включать,None,None
+2203,income,доход,None,None
+2204,incompatible,несовместимый,None,None
+2205,incomprehensible,непонятный,None,None
+2206,increase,увеличивать,None,None
+2207,incredible,невероятный,None,None
+2208,incredulity,недоверчивость,None,None
+2209,incriminate,инкриминировать,None,None
+2210,incur,нести,None,None
+2211,indecent,неприличный,None,None
+2212,indecision,нерешительность,None,None
+2213,indeed,в самом деле,None,None
+2214,independence,независимость,None,None
+2215,independent,независимый,None,None
+2216,indicate,указывать,None,None
+2217,indication,индикация,None,None
+2218,indict,нет перевода,None,None
+2219,indifference,безразличие,None,None
+2220,indifferent,безразличный,None,None
+2221,indignation,возмущение,None,None
+2222,indispensable,незаменимый,None,None
+2223,indistinct,нечёткий,None,None
+2224,indoor,нет перевода,None,None
+2225,induce,вызывать,None,None
+2226,indulge,предаваться,None,None
+2227,industry,промышленность,None,None
+2228,inequality,неравенство,None,None
+2229,inevitability,неизбежность,None,None
+2230,inevitable,неизбежный,None,None
+2231,infant,младенец,None,None
+2232,infantry,пехота,None,None
+2233,infect,нет перевода,None,None
+2234,infer,"заключать, делать заключение, вывод",None,None
+2235,inferior,худший (по качеству),None,None
+2236,inferiority,"более низкое положение, достоинство, качество",None,None
+2237,infidelity,неверность,None,None
+2238,infinite,бесконечный,None,None
+2239,inflict,наносить,None,None
+2240,influence,влияние,None,None
+2241,influential,влиятельный,None,None
+2242,inform,сообщать,уведомлять,None
+2243,ingenious,изобретательный,None,None
+2244,ingratitude,неблагодарность,None,None
+2245,inhabit,населять,None,None
+2246,inherent,"присущий, неотъемлемый",None,None
+2247,inherit,наследовать,None,None
+2248,inheritance,наследование,None,None
+2249,inhuman,бесчеловечный,None,None
+2250,initial,начальный,None,None
+2251,initiate,инициировать,None,None
+2252,initiative,начальный,None,None
+2253,injunction,предписание,None,None
+2254,injure,ранить,None,None
+2255,injury,травма,None,None
+2256,injustice,несправедливость,None,None
+2257,ink,чернила,None,None
+2258,in-law,нет перевода,None,None
+2259,inmate,заключённый,None,None
+2260,inn,гостиница,None,None
+2261,inner,внутренний,None,None
+2262,innocence,невинность,None,None
+2263,innocent,невинный,None,None
+2264,innumerable,неисчислимый,None,None
+2265,inquest,расследование,None,None
+2266,inquire,осведомляться,None,None
+2267,inquiry,запрос,None,None
+2268,insane,душевнобольной,ненормальный,None
+2269,insanity,безумие,None,None
+2270,inscription,надпись,None,None
+2271,insect,насекомое,None,None
+2272,insert,вставлять,None,None
+2273,inside,внутренняя часть,None,None
+2274,insider,инсайдер,None,None
+2275,insight,понимание,None,None
+2276,insignificant,незначительный,None,None
+2277,insincere,неискренний,None,None
+2278,insipid,пресный,None,None
+2279,insist,настаивать,None,None
+2280,inspiration,вдохновение,None,None
+2281,inspire,вдохновлять,None,None
+2282,install,устанавливать,None,None
+2283,instant,нет перевода,None,None
+2284,instead,вместо,None,None
+2285,institution,учреждение,None,None
+2286,instruct,инструктировать,None,None
+2287,instruction,инструкция,None,None
+2288,insufficient,недостаточный,None,None
+2289,insult,оскорбление,None,None
+2290,insurance,страхование,None,None
+2291,insure,нет перевода,None,None
+2292,insurmountable,непреодолимый,None,None
+2293,intact,нетронутый,None,None
+2294,integrate,интегрировать,None,None
+2295,integrity,целостность,None,None
+2296,intelligence,интеллект,сведения секретного характера,None
+2297,intelligent,умный,None,None
+2298,intelligible,вразумительный,None,None
+2299,intend,намереваться,None,None
+2300,intense,интенсивный,None,None
+2301,intensify,усиливать,None,None
+2302,intensity,интенсивность,None,None
+2303,intent,намерение,None,None
+2304,intention,намерение,None,None
+2305,intentional,намеренный,None,None
+2306,interact,взаимодействовать,None,None
+2307,interaction,взаимодействие,None,None
+2308,intercourse,общение,None,None
+2309,interest,интерес,None,None
+2310,interfere,вмешиваться,None,None
+2311,interference,вмешательство,помеха,None
+2312,interior,интерьер,None,None
+2313,intermediate,промежуточный,None,None
+2314,internal,внутренний,None,None
+2315,interpret,интерпретировать,None,None
+2316,interpretation,интерпретация,None,None
+2317,interrupt,прерывать,None,None
+2318,intervention,вмешательство,None,None
+2319,intimate,интимный,None,None
+2320,intimidate,запугать,None,None
+2321,intimidation,запугивание,None,None
+2322,intoxicate,нет перевода,None,None
+2323,intricate,сложный,замысловатый,None
+2324,introduce,вводить,None,None
+2325,introduction,введение,None,None
+2326,invade,вторгнуться,None,None
+2327,invaluable,бесценный,None,None
+2328,invariable,неизменный,None,None
+2329,invasion,вторжение,None,None
+2330,invent,изобретать,None,None
+2331,invention,изобретение,None,None
+2332,inventory,инвентаризация,None,None
+2333,inverse,нет перевода,None,None
+2334,invest,инвестировать,None,None
+2335,investigate,исследовать,None,None
+2336,investigation,расследование,None,None
+2337,investment,инвестиция,None,None
+2338,invincible,непобедимый,None,None
+2339,invisible,невидимый,None,None
+2340,invitation,приглашение,None,None
+2341,invite,приглашать,None,None
+2342,invoke,вызывать,None,None
+2343,involve,включать,вовлекать,None
+2344,involvement,участие,None,None
+2345,inward,внутрь,None,None
+2346,iron,железо,None,None
+2347,irony,ирония,None,None
+2348,irrational,иррациональный,None,None
+2349,irregular,нестандартный,неправильный,None
+2350,irrelevant,неуместный,None,None
+2351,irreplaceable,незаменимый,None,None
+2352,irresistible,неотразимый,None,None
+2353,irresponsible,безответственный,None,None
+2354,irreverence,непочтительность,None,None
+2355,irreversible,необратимый,None,None
+2356,irritate,раздражать,None,None
+2357,island,остров,None,None
+2358,issue,вопрос,None,None
+2359,itch,чесаться,None,None
+2360,item,пункт,None,None
+2361,jacket,куртка,None,None
+2362,jail,тюрьма,None,None
+2363,jam,варенье,None,None
+2364,jar,"издавать неприятный, резкий звук",None,None
+2365,jaw,челюсть,None,None
+2366,jealous,ревнивый,None,None
+2367,jealousy,ревность,None,None
+2368,jeer,насмешка,None,None
+2369,jelly,желе,None,None
+2370,jest,шутка,None,None
+2371,jet,струя,реактивный самолет,None
+2372,jew,нет перевода,None,None
+2373,jewelry,нет перевода,None,None
+2374,job,работа,None,None
+2375,jog,толчок,None,None
+2376,join,присоединяться,None,None
+2377,joint,совместный,None,None
+2378,joke,шутка,None,None
+2379,jolly,весёлый,None,None
+2380,journal,журнал,None,None
+2381,journalism,журналистика,None,None
+2382,journey,путешествие,None,None
+2383,joy,радость,None,None
+2384,joyful,радостный,None,None
+2385,judge,судья,None,None
+2386,judge,судить,None,None
+2387,judgement,суждение,None,None
+2388,jug,кувшин,None,None
+2389,juice,сок,None,None
+2390,jungle,джунгли,None,None
+2391,junior,младший,None,None
+2392,junk,барахло,None,None
+2393,just,точно,только что,None
+2394,justice,справедливость,None,None
+2395,justify,оправдывать,None,None
+2396,keen,острый,None,None
+2397,keep away,избегать,держать в отдалении,None
+2398,keep from,молчать,держать при себе,удерживать от
+2399,keep on,продолжать,None,None
+2400,kernel,ядро,None,None
+2401,kettle,чайник,None,None
+2402,key,ключ,None,None
+2403,kick,удар,None,None
+2404,kid,ребёнок,None,None
+2405,kidnap,украсть ребёнка,None,None
+2406,kind,добрый,покладистый,None
+2407,kind,вид,сорт,None
+2408,kindle,разжечь,None,None
+2409,kindness,доброта,None,None
+2410,king,король,None,None
+2411,kingdom,царство,королевство,None
+2412,kiss,поцелуй,None,None
+2413,kitchen,кухня,None,None
+2414,kitten,котёнок,None,None
+2415,knack,умение,None,None
+2416,knee,колено,None,None
+2417,kneel,становиться на колени,None,None
+2418,knife,нож,None,None
+2419,knit,нет перевода,None,None
+2420,knob,ручка,None,None
+2421,knock,стучать,None,None
+2422,knot,узел,None,None
+2423,knowledge,знание,None,None
+2424,known,нет перевода,None,None
+2425,label,этикетка,None,None
+2426,labour,труд,None,None
+2427,laborious,трудоёмкий,None,None
+2428,lack,испытывать недостаток,нуждаться,None
+2429,ladder,лестница,None,None
+2430,lag,отставание,None,None
+2431,lake,озеро,None,None
+2432,lamb,ягнёнок,None,None
+2433,lame,хромой,None,None
+2434,land,земля,None,None
+2435,landlord,арендодатель,None,None
+2436,landmark,ориентир,None,None
+2437,landscape,пейзаж,None,None
+2438,lane,переулок,None,None
+2439,language,язык,None,None
+2440,lantern,фонарь,None,None
+2441,lap,колени,подол,круг
+2442,large,большой,None,None
+2443,lash,плеть,None,None
+2444,lasting,прочный,None,None
+2445,late,поздно,None,None
+2446,lately,недавно,None,None
+2447,latent,латентный,None,None
+2448,laugh,смеяться,None,None
+2449,laughter,смех,None,None
+2450,launch,запускать,None,None
+2451,lavatory,туалет,None,None
+2452,lavish,щедрый,None,None
+2453,law,закон,None,None
+2454,lawful,законный,None,None
+2455,lawsuit,иск,None,None
+2456,lawyer,адвокат,None,None
+2457,layer,слой,None,None
+2458,lazy,ленивый,None,None
+2459,lead,свинец,руководство,None
+2460,leadership,руководство,None,None
+2461,leaf,лист,None,None
+2462,leak,утечка,None,None
+2463,lean,"тощий, худой",None,None
+2464,leap,прыжок,None,None
+2465,learn,учиться,None,None
+2466,lease,аренда,None,None
+2467,leather,кожа,None,None
+2468,leftover,нет перевода,None,None
+2469,leg,нога,None,None
+2470,legacy,наследие,None,None
+2471,legal,правовой,законный,None
+2472,legislation,законодательство,None,None
+2473,legislator,законодатель,None,None
+2474,leisure,досуг,None,None
+2475,lend,давать взаймы,None,None
+2476,length,длина,None,None
+2477,lessen,уменьшать,None,None
+2478,lesson,урок,None,None
+2479,let,позволять,None,None
+2480,letter,письмо,None,None
+2481,level,уровень,None,None
+2482,lever,рычаг,None,None
+2483,liability,ответственность,None,None
+2484,liable,подлежащий,None,None
+2485,liar,лгун,None,None
+2486,liberate,освобождать,None,None
+2487,liberation,освобождение,None,None
+2488,liberty,свобода,None,None
+2489,library,библиотека,None,None
+2490,license,лицензия,None,None
+2491,lick,лизать,None,None
+2492,lid,крышка,None,None
+2493,lie,ложь,None,None
+2494,lifetime,продолжительность жизни,None,None
+2495,lift,поднимать,None,None
+2496,lightning,молния,None,None
+2497,likely,вероятный,None,None
+2498,likewise,подобно,None,None
+2499,limb,конечность,None,None
+2500,limit,предел,None,None
+2501,limitation,ограничение,None,None
+2502,limp,хромать,None,None
+2503,line,линия,None,None
+2504,linger,задерживаться,None,None
+2505,link,ссылка,связь,звено
+2506,lion,лев,None,None
+2507,lip,губа,None,None
+2508,lipstick,губная помада,None,None
+2509,liquid,жидкий,None,None
+2510,list,перечислять,None,None
+2511,literally,буквально,None,None
+2512,literate,грамотный,None,None
+2513,live,жить,None,None
+2514,liver,печень,None,None
+2515,living,живой,None,None
+2516,lizard,ящерица,None,None
+2517,load,нагрузка,None,None
+2518,loaf,буханка,None,None
+2519,loan,заём,None,None
+2520,loathe,ненавидеть,None,None
+2521,local,местный,None,None
+2522,locate,размещать,None,None
+2523,location,расположение,None,None
+2524,lock,замок,None,None
+2525,lock up,закрывать,запирать,None
+2526,lodge,подать,None,None
+2527,lofty,высокий,None,None
+2528,log,бревно,None,None
+2529,loneliness,одиночество,None,None
+2530,lonely,одинокий,None,None
+2531,lonesome,"вызывающий тоску, унылый",None,None
+2532,ago,тому назад,None,None
+2533,look for,искать,присматривать,подыскивать
+2534,look,взгляд,None,None
+2535,loop,петля,None,None
+2536,loophole,лазейка,None,None
+2537,loose,свободный,None,None
+2538,loot,добыча,None,None
+2539,lord,господин,None,None
+2540,lose,терять,None,None
+2541,loser,неудачник,None,None
+2542,loss,потеря,None,None
+2543,lot,большое количество,None,None
+2544,lottery,лотерея,None,None
+2545,loud,громкий,None,None
+2546,lounge,гостиная,None,None
+2547,lousy,нет перевода,None,None
+2548,lovely,прекрасный,None,None
+2549,lover,любовник,None,None
+2550,low,низкий,None,None
+2551,lowly,скромный,None,None
+2552,loyal,лояльный,None,None
+2553,loyalty,лояльность,None,None
+2554,luck,удача,None,None
+2555,lucky,удачливый,None,None
+2556,lucrative,прибыльный,None,None
+2557,luggage,багаж,None,None
+2558,lull,затишье,None,None
+2559,lumber,пиломатериал,None,None
+2560,lunar,лунный,None,None
+2561,lunch,обед,None,None
+2562,lung,лёгкое,None,None
+2563,lure,заманить,None,None
+2564,lurk,таиться,None,None
+2565,lust,похоть,None,None
+2566,luxury,роскошь,None,None
+2567,lyric,лирическое стихотворение,None,None
+2568,machinery,техника,None,None
+2569,madden,сводить с ума,None,None
+2570,madhouse,сумасшедший дом,None,None
+2571,madness,безумие,None,None
+2572,magazine,журнал,None,None
+2573,magic,магия,None,None
+2574,magnificent,великолепный,None,None
+2575,maiden,дева,None,None
+2576,mail,почта,None,None
+2577,mainly,главным образом,None,None
+2578,maintain,поддерживать,None,None
+2579,maintenance,обслуживание,None,None
+2580,majesty,величество,None,None
+2581,major,основной,None,None
+2582,majority,большинство,None,None
+2583,make,делать,заставлять,None
+2584,fun,веселье,None,None
+2585,make up,помириться после ссоры,составлять,компенсировать
+2586,male,мужской,None,None
+2587,malice,злоба,None,None
+2588,malicious,вредоносный,None,None
+2589,manage,управлять,справляться,None
+2590,manage,нет перевода,None,None
+2591,management,управление,None,None
+2592,manhood,мужественность,None,None
+2593,manifest,"очевидный, явный",None,None
+2594,mankind,человечество,None,None
+2595,manner,манера,None,None
+2596,mansion,дворец,None,None
+2597,manual,нет перевода,None,None
+2598,map,карта,None,None
+2599,marble,мрамор,None,None
+2600,margin,"грань, краевая зона",маржа,None
+2601,marginal,предельный,None,None
+2602,marijuana,марихуана,None,None
+2603,mariner,моряк,None,None
+2604,mark,оценка,метка,след
+2605,market,рынок,None,None
+2606,marriage,брак,None,None
+2607,marshal,"выстраивать (войска, процессию)",None,None
+2608,martial,военный,None,None
+2609,martyr,мученик,None,None
+2610,marvel,чудо,None,None
+2611,marvellous,изумительный,None,None
+2612,mask,маска,None,None
+2613,masquerade,маскарад,None,None
+2614,massacre,резня,None,None
+2615,massive,массивный,None,None
+2616,masterpiece,шедевр,None,None
+2617,mastery,мастерство,None,None
+2618,match,спичка,пара,матч
+2619,mate,помощник,None,None
+2620,mature,зрелый,None,None
+2621,maturity,зрелость,None,None
+2622,mayor,мэр,None,None
+2623,meadow,луг,None,None
+2624,meal,прием пищи,None,None
+2625,mean,значить,None,None
+2626,meaningful,нет перевода,None,None
+2627,meaningless,бессмысленный,None,None
+2628,meantime,нет перевода,None,None
+2629,meanwhile,тем временем,None,None
+2630,measure,мера,None,None
+2631,meat,мясо,None,None
+2632,meddle,вмешиваться,None,None
+2633,mediator,посредник,None,None
+2634,medicine,медицина,лекарство,None
+2635,mediocre,посредственный,None,None
+2636,meditate,размышлять,None,None
+2637,medium,среда,None,None
+2638,meet,встречаться,None,None
+2639,melancholy,меланхоличный,None,None
+2640,melon,дыня,None,None
+2641,melt,таять,None,None
+2642,member,член,None,None
+2643,memorial,мемориал,None,None
+2644,memory,память,None,None
+2645,menace,угроза,None,None
+2646,mend,латать,None,None
+2647,mental,ментальный,None,None
+2648,mention,упоминание,None,None
+2649,merchant,купец,None,None
+2650,merciful,"милосердный, милостивый",None,None
+2651,mercy,милость,None,None
+2652,mere,всего лишь,чистый,None
+2653,merely,просто,None,None
+2654,merge,нет перевода,None,None
+2655,merit,заслуга,None,None
+2656,merriment,веселье,None,None
+2657,merry,весёлый,радостный,None
+2658,mess,беспорядок,None,None
+2659,message,сообщение,None,None
+2660,midday,полдень,None,None
+2661,middle,середина,None,None
+2662,midnight,полночь,None,None
+2663,midst,середина,None,None
+2664,midway,полпути,None,None
+2665,mighty,могучий,None,None
+2666,mild,мягкий,None,None
+2667,mile,миля,None,None
+2668,military,военный,None,None
+2669,milk,молоко,None,None
+2670,mill,мельница,None,None
+2671,mind,ум,None,None
+2672,mindful,заботливый,None,None
+2673,mingle,смешиваться,None,None
+2674,minor,незначительный,None,None
+2675,minority,меньшинство,None,None
+2676,miracle,чудо,None,None
+2677,mirror,зеркало,None,None
+2678,mirth,веселье,None,None
+2679,mischief,зло,озорство,None
+2680,misconduct,проступок,None,None
+2681,miser,скряга,None,None
+2682,miserable,несчастный,None,None
+2683,misery,мучение,несчастье,None
+2684,misfortune,несчастье,None,None
+2685,misgovernment,нет перевода,None,None
+2686,mislead,вводить в заблуждение,None,None
+2687,mismanagement,бесхозяйственность,None,None
+2688,miss,промах,отсутствие,мисс
+2689,missile,ракета,None,None
+2690,mist,туман,None,None
+2691,mistake,ошибка,None,None
+2692,mistake,ошибаться,None,None
+2693,mistress,любовница,None,None
+2694,mistrust,недоверие,None,None
+2695,misunderstand,понимать,None,None
+2696,misuse,злоупотребление,None,None
+2697,mix,смешивать(ся),None,None
+2698,mixture,смесь,None,None
+2699,mob,толпа,None,None
+2700,mock,имитация,None,None
+2701,mockery,издевательство,None,None
+2702,mode,режим,None,None
+2703,moderate,умеренный,None,None
+2704,moderation,умеренность,None,None
+2705,modern,современный,None,None
+2706,modest,скромный,None,None
+2707,modesty,скромность,None,None
+2708,modify,изменять,None,None
+2709,mold,плесень,None,None
+2710,mom,мама,None,None
+2711,monetary,нет перевода,None,None
+2712,monk,монах,None,None
+2713,monkey,обезьяна,None,None
+2714,monotonous,монотонный,None,None
+2715,monster,монстр,None,None
+2716,monstrous,чудовищный,None,None
+2717,month,месяц,None,None
+2718,monthly,месячный,None,None
+2719,monument,памятник,None,None
+2720,mood,настроение,None,None
+2721,moon,луна,None,None
+2722,moron,дебил,None,None
+2723,mortal,смертный,смертельный,None
+2724,mortgage,заложить,None,None
+2725,mortify,унижать,None,None
+2726,mosque,мечеть,None,None
+2727,mosquito,комар,None,None
+2728,motion,движение,None,None
+2729,motionless,неподвижный,None,None
+2730,motive,мотив,None,None
+2731,mount,взбираться,None,None
+2732,mountain,гора,None,None
+2733,mourn,оплакивать,None,None
+2734,mouse,мышь,None,None
+2735,mouth,рот,None,None
+2736,move,движение,None,None
+2737,movement,движение,None,None
+2738,mud,грязь,None,None
+2739,multiple,кратное число,None,None
+2740,multiplication,умножение,None,None
+2741,multiply,умножить,None,None
+2742,multitude,множество,None,None
+2743,mumble,бормотание,None,None
+2744,murder,убивать,None,None
+2745,muscle,мышца,None,None
+2746,museum,музей,None,None
+2747,mushroom,гриб,None,None
+2748,musician,музыкант,None,None
+2749,muslim,мусульманин,None,None
+2750,mustache,усы,None,None
+2751,mustard,горчица,None,None
+2752,muster,"сбор, смотр",None,None
+2753,mute,немой,None,None
+2754,mutual,взаимный,None,None
+2755,mysterious,таинственный,None,None
+2756,mystery,тайна,None,None
+2757,nail,гвоздь,None,None
+2758,naked,голый,None,None
+2759,nap,короткий сон,ворс,чаша
+2760,narrow,узкий,None,None
+2761,nasty,противный,None,None
+2762,native,родной,None,None
+2763,natural,естественный,None,None
+2764,nature,природа,None,None
+2765,naval,военно-морской,None,None
+2766,navy,военно-морской флот,None,None
+2767,nazi,нацистский,None,None
+2768,nearby,поблизости,None,None
+2769,nearly,приблизительно,None,None
+2770,neat,"вол, корова, бык",None,None
+2771,necessary,необходимый,None,None
+2772,necessity,необходимость,None,None
+2773,neck,шея,None,None
+2774,need,необходимость,None,None
+2775,needle,игла,None,None
+2776,needless,бесполезный,None,None
+2777,negate,нет перевода,None,None
+2778,neglect,пренебрежение,None,None
+2779,negotiate,"вести переговоры, договариваться (with)",None,None
+2780,negotiation,переговоры,None,None
+2781,neighbour,сосед,None,None
+2782,neighborhood,окрестность,None,None
+2783,nephew,племянник,None,None
+2784,nerve,нерв,None,None
+2785,nervous,нервный,None,None
+2786,nest,гнездо,None,None
+2787,net,сеть,None,None
+2788,network,нет перевода,None,None
+2789,neutral,нейтральный,None,None
+2790,nevertheless,несмотря на,однако,None
+2791,news,новости,None,None
+2792,newspaper,газета,None,None
+2793,door,дверь,None,None
+2794,nibble,клёв,None,None
+2795,nice,хороший,None,None
+2796,nickname,прозвище,None,None
+2797,niece,племянница,None,None
+2798,nightmare,кошмар,None,None
+2799,nobility,дворянство,None,None
+2800,noble,величественный,благородный,None
+2801,nod,кивок,None,None
+2802,noise,шум,None,None
+2803,noisy,шумный,None,None
+2804,nonetheless,тем не менее,None,None
+2805,nonsense,ерунда,None,None
+2806,noon,полдень,None,None
+2807,normality,нормальность,None,None
+2808,north,север,None,None
+2809,northern,северный,None,None
+2810,nose,нос,None,None
+2811,nostril,ноздря,None,None
+2812,note,примечание,None,None
+2813,nothingness,"ничто, небытие",None,None
+2814,notice,уведомление,None,None
+2815,notion,понятие,None,None
+2816,notorious,пользующийся дурной славой,None,None
+2817,,существительное,None,None
+2818,nourish,питать,None,None
+2819,novel,роман,None,None
+2820,novelty,новинка,None,None
+2821,nowadays,в наше время,None,None
+2822,nowhere,нигде,никуда,None
+2823,nuclear,ядерный,None,None
+2824,nudity,нагота,None,None
+2825,nuisance,неприятность,None,None
+2826,numb,онемелый,None,None
+2827,number,число,None,None
+2828,numerous,многочисленный,None,None
+2829,nurse,медсестра,None,None
+2830,nurture,воспитание,None,None
+2831,nutrition,питание,None,None
+2832,oak,дуб,None,None
+2833,oath,клятва,None,None
+2834,obedience,послушание,None,None
+2835,obey,повиноваться,None,None
+2836,object,объект,None,None
+2837,objection,возражение,None,None
+2838,objective,цель,None,None
+2839,obligation,обязательство,None,None
+2840,oblige,обязывать,None,None
+2841,obscene,непристойный,None,None
+2842,obscure,неясный,None,None
+2843,observe,наблюдать,None,None
+2844,obsess,преследовать,None,None
+2845,obsession,одержимость,None,None
+2846,obsolete,устаревший,None,None
+2847,obstacle,препятствие,None,None
+2848,obstinacy,упрямство,None,None
+2849,obstinate,упрямый,None,None
+2850,obstruct,препятствовать,None,None
+2851,obtain,получать,None,None
+2852,obvious,очевидный,None,None
+2853,occasion,повод,None,None
+2854,occasional,"случающийся время от времени, иногда",None,None
+2855,occupation,оккупация,None,None
+2856,occupy,занимать,None,None
+2857,occur,происходить,None,None
+2858,occurence,нет перевода,None,None
+2859,ocean,океан,None,None
+2860,odd,странный,None,None
+2861,odour,запах,None,None
+2862,offence,преступление,наступление,None
+2863,offend,оскорблять,None,None
+2864,offensive,"оскорбительный, обидный",None,None
+2865,offer,предложение,None,None
+2866,officer,офицер,None,None
+2867,official,официальный,None,None
+2868,often,часто,None,None
+2869,oil,нефть,масло,None
+2870,old,старый,None,None
+2871,omen,предзнаменование,None,None
+2872,ominous,зловещий,None,None
+2873,omit,опустить,None,None
+2874,once,однажды,None,None
+2875,half,половинный,None,None
+2876,onion,лук,None,None
+2877,open,открывать,None,None
+2878,operate,работать,None,None
+2879,opinion,мнение,None,None
+2880,opportunity,возможность,None,None
+2881,oppose,"оказывать сопротивление, сопротивляться, противиться",None,None
+2882,opposite,напротив,None,None
+2883,opposition,оппозиция,None,None
+2884,oppression,угнетение,None,None
+2885,option,вариант,None,None
+2886,optional,необязательный,None,None
+2887,order,порядок,None,None
+2888,orderly,упорядоченный,None,None
+2889,ordinary,обычный,None,None
+2890,origin,происхождение,None,None
+2891,original,оригинальный,None,None
+2892,originate,происходить,None,None
+2893,orphan,сирота,None,None
+2894,otherwise,иначе,None,None
+2895,outbreak,вспышка,восстание,None
+2896,outcome,нет перевода,None,None
+2897,outdated,устаревший,None,None
+2898,outdo,перещеголять,None,None
+2899,outdoor,нет перевода,None,None
+2900,outer,внешний,None,None
+2901,outlet,выход,None,None
+2902,outline,схема,None,None
+2903,outlook,прогноз,None,None
+2904,outnumber,превосходить численно,None,None
+2905,output,выход,None,None
+2906,outrage,безобразие,None,None
+2907,outrageous,возмутительный,None,None
+2908,outright,напрямую,None,None
+2909,outrun,обогнать,None,None
+2910,outset,боковик,None,None
+2911,outside,наружная часть или сторона,None,None
+2912,outsider,"человек, не принадлежащий к данному кругу",None,None
+2913,outward,"внешний, наружный",None,None
+2914,oven,печь,None,None
+2915,overcome,преодолеть,None,None
+2916,overestimate,завышение,None,None
+2917,overflow,переливаться через край,None,None
+2918,overhead,"наверху, над головой",None,None
+2919,overlook,игнорировать,None,None
+2920,overnight,накануне вечером,мгновенно,None
+2921,oversee,наблюдать,None,None
+2922,overshadow,затмевать,None,None
+2923,oversight,надзор,None,None
+2924,overtake,перегонять,None,None
+2925,overthrow,свержение,None,None
+2926,overtime,сверхурочные часы,None,None
+2927,overturn,опрокинуть,None,None
+2928,overweight,избыточный вес,None,None
+2929,overwhelm,подавлять,None,None
+2930,overwork,переутомление,None,None
+2931,owe,быть должным (кому-л.),None,None
+2932,owner,владелец,None,None
+2933,oxygen,кислород,None,None
+2934,pace,темп,None,None
+2935,pack,упаковывать,None,None
+2936,package,пакет,комплект,None
+2937,pad,мягкая прокладка или набивка,плетёная корзина (как мера),None
+2938,paddle,весло,None,None
+2939,pagan,языческий,None,None
+2940,page,страница,None,None
+2941,pain,боль,None,None
+2942,painful,причиняющий боль,None,None
+2943,paint,рисовать,None,None
+2944,painting,живопись,None,None
+2945,pair,пара,None,None
+2946,palace,дворец,None,None
+2947,pale,бледный,None,None
+2948,pall,покров,None,None
+2949,palm,пальма,None,None
+2950,pan,сковорода,None,None
+2951,pants,брюки,None,None
+2952,paper,бумага,газета,None
+2953,paradise,рай,None,None
+2954,parcel,посылка,None,None
+2955,pardon,извинение,None,None
+2956,part,расставаться,разделять(ся),None
+2957,partial,частичный,None,None
+2958,participant,участник,None,None
+2959,participate,участвовать (in),None,None
+2960,participation,участие,None,None
+2961,particle,частица,None,None
+2962,particular,конкретный,None,None
+2963,partly,частично,None,None
+2964,party,партия,None,None
+2965,pass,проход,ущелье,None
+2966,passage,проезд,None,None
+2967,passenger,пассажир,None,None
+2968,passion,страсть,None,None
+2969,passionate,страстный,None,None
+2970,password,пароль,None,None
+2971,past,прошлое,None,None
+2972,past,прошлый,минувший,None
+2973,pastime,времяпровождение,None,None
+2974,pasture,пастбище,None,None
+2975,pat,кстати,None,None
+2976,patch,залатать,None,None
+2977,patch,пластырь,None,None
+2978,path,путь,None,None
+2979,pathetic,жалкий,None,None
+2980,patience,терпение,None,None
+2981,patient,пациент,None,None
+2982,pattern,шаблон,None,None
+2983,paunchy,с брюшком,None,None
+2984,pause,пауза,None,None
+2985,pave,вымостить,None,None
+2986,pavement,тротуар,None,None
+2987,paw,лапа,None,None
+2988,pay,плата,None,None
+2989,payment,оплата,None,None
+2990,payoff,выплата,None,None
+2991,peace,мир,None,None
+2992,peaceful,мирный,None,None
+2993,peak,пик,None,None
+2994,pear,груша,None,None
+2995,peasant,крестьянин,None,None
+2996,peculiar,специфический,None,None
+2997,pedestrian,пеший,пешеходный,None
+2998,peep,писк,None,None
+2999,peer,равный по уровню,None,None
+3000,pen,ручка,None,None
+3001,penalty,штраф,None,None
+3002,pencil,карандаш,None,None
+3003,penetrate,проникать,None,None
+3004,penny,пенни,None,None
+3005,people,люди,None,None
+3006,perceive,воспринимать,None,None
+3007,percent,нет перевода,None,None
+3008,perception,восприятие,None,None
+3009,perfect,идеальный,None,None
+3010,perform,выполнять,None,None
+3011,performance,производительность,None,None
+3012,perhaps,возможно,None,None
+3013,peril,опасность,None,None
+3014,perish,гибнуть,None,None
+3015,permanent,постоянный,None,None
+3016,permission,разрешение,None,None
+3017,permit,разрешать,None,None
+3018,perpetual,вечный,None,None
+3019,perplex,озадачивать,None,None
+3020,persist,продолжать существовать,None,None
+3021,persistence,постоянство,настойчивость,None
+3022,persistent,постоянный,None,None
+3023,person,человек,None,None
+3024,personal,персональный,None,None
+3025,personality,личность,None,None
+3026,personnel,персонал,None,None
+3027,persuade,убеждать,понуждать,None
+3028,persuasion,убеждение,None,None
+3029,persuasive,убедительный,None,None
+3030,perversity,извращённость,None,None
+3031,pervert,извратить,None,None
+3032,petal,лепесток,None,None
+3033,petty,мелкий,None,None
+3034,phase,фаза,None,None
+3035,phone,звонить по телефону,None,None
+3036,phony,обман,None,None
+3037,physician,врач,None,None
+3038,physics,физика,None,None
+3039,piano,пианино,None,None
+3040,pick,выбирать,None,None
+3041,pick up,поднимать,подбирать,None
+3042,picture,картинка,None,None
+3043,pie,пирог,None,None
+3044,piece,кусок,None,None
+3045,pierce,прокалывать,просверливать,None
+3046,pig,свинья,None,None
+3047,pigeon,голубь,None,None
+3048,pile,куча,None,None
+3049,peel,чистить,счищать,соскабливать
+3050,pillar,основной принцип,столб,None
+3051,pillow,подушка,None,None
+3052,pilot,пилот,None,None
+3053,pin,штифт,None,None
+3054,pinch,щепотка,None,None
+3055,pine,томиться,None,None
+3056,pipe,труба,None,None
+3057,piss,моча,None,None
+3058,pit,яма,None,None
+3059,pitch,шаг,None,None
+3060,pity,жалеть,None,None
+3061,place,размещать,None,None
+3062,plague,чума,None,None
+3063,plain,простой,None,None
+3064,plane,самолёт,None,None
+3065,plant,растение,завод,None
+3066,plaster,штукатурка,None,None
+3067,plate,тарелка,плита,None
+3068,platform,платформа,None,None
+3069,plausible,правдоподобный,None,None
+3070,plea,мольба,None,None
+3071,plead,просить,умолять,None
+3072,pleasant,приятный,None,None
+3073,please,доставлять удовольствие,None,None
+3074,pleasure,удовольствие,None,None
+3075,pledge,залог,обещание,None
+3076,plentiful,нет перевода,None,None
+3077,plenty,множество,None,None
+3078,plot,участок,None,None
+3079,pluck,срывать,None,None
+3080,plug,вилка,None,None
+3081,plumber,водопроводчик,None,None
+3082,plumbing,нет перевода,None,None
+3083,plunge,погружение,None,None
+3084,pocket,карман,None,None
+3085,poetry,поэзия,None,None
+3086,pointless,"неостроумный, плоский",None,None
+3087,poise,уравновешенность,None,None
+3088,poison,отравлять,None,None
+3089,poke,"толчок, тычок",мешок,None
+3090,policy,политика,правила,None
+3091,polish,полировка,None,None
+3092,polite,вежливый,None,None
+3093,politeness,вежливость,None,None
+3094,politician,политик,None,None
+3095,poll,"студенты, окончившие без отличия (в Кембридже)",None,None
+3096,pollution,загрязнение,None,None
+3097,pond,пруд,None,None
+3098,ponder,задуматься,None,None
+3099,pool,бассейн,None,None
+3100,poor,бедный,плохой,None
+3101,pop,"хлопать, выстреливать (о пробке)",None,None
+3102,pope,папа,None,None
+3103,populate,заселять,None,None
+3104,population,население,None,None
+3105,porch,крыльцо,None,None
+3106,pork,свинина,None,None
+3107,portable,портативный,None,None
+3108,portal,портал,None,None
+3109,portrait,портрет,None,None
+3110,pose,поза,None,None
+3111,position,положение,None,None
+3112,positively,положительно,None,None
+3113,possess,обладать,None,None
+3114,possession,владение,None,None
+3115,possibility,возможность,None,None
+3116,possible,возможный,None,None
+3117,post,пост,None,None
+3118,postal,открытка,None,None
+3119,postpone,отложить,None,None
+3120,posture,поза,None,None
+3121,pot,горшок,None,None
+3122,potato,картофель,None,None
+3123,potency,потенция,None,None
+3124,potent,мощный,None,None
+3125,potential,потенциальный,None,None
+3126,pound,фунт,None,None
+3127,pour,лить,None,None
+3128,poverty,бедность,None,None
+3129,powder,порошок,None,None
+3130,power,мощность,None,None
+3131,powerful,мощный,None,None
+3132,praise,восхвалять,None,None
+3133,prayer,молитва,None,None
+3134,preach,проповедовать,None,None
+3135,precaution,предосторожность,None,None
+3136,precautionary,предупредительный,None,None
+3137,precede,предшествовать,None,None
+3138,precious,драгоценный,None,None
+3139,precise,точный,None,None
+3140,precision,точность,None,None
+3141,predatory,хищный,None,None
+3142,predecessor,предшественник,None,None
+3143,predict,прогнозировать,предсказывать,None
+3144,predictable,предсказуемый,None,None
+3145,prediction,предсказание,None,None
+3146,predominant,преобладающий,None,None
+3147,predominate,преобладать,None,None
+3148,prefer,предпочитать,None,None
+3149,preference,предпочтение,None,None
+3150,pregnancy,беременность,None,None
+3151,pregnant,беременный,None,None
+3152,prejudice,предубеждение,None,None
+3153,preliminary,предварительный,None,None
+3154,premature,преждевременный,None,None
+3155,premise,предпосылка,None,None
+3156,preoccupy,"занимать, поглощать внимание",None,None
+3157,preparation,подготовка,None,None
+3158,prepare,готовить,None,None
+3159,prescribe,назначать,None,None
+3160,prescription,рецепт,None,None
+3161,presence,присутствие,None,None
+3162,present,подарок,настоящее время,None
+3163,present,присутствующий,настоящий,теперешний
+3164,presentation,презентация,None,None
+3165,presently,вскоре,теперь,немного времени спустя
+3166,preservation,сохранение,None,None
+3167,preserve,сохранять,None,None
+3168,press,пресса,нажатие,None
+3169,pressure,давление,None,None
+3170,presumably,предположительно,None,None
+3171,presume,предполагать,None,None
+3172,pretend,притворяться,претендовать,осмеливаться
+3173,pretense,нет перевода,None,None
+3174,pretty,хорошенький,None,None
+3175,prevail,преобладать,None,None
+3176,prevent,предотвращать,None,None
+3177,prevention,предотвращение,None,None
+3178,previous,предыдущий,None,None
+3179,prey,добыча,None,None
+3180,price,цена,None,None
+3181,prick,колоть,None,None
+3182,pride,гордость,None,None
+3183,priest,священник,None,None
+3184,primary,первичный,None,None
+3185,principal,основной,None,None
+3186,principle,принцип,None,None
+3187,print,печать,None,None
+3188,prior,предшествующий,None,None
+3189,prison,тюрьма,None,None
+3190,prisoner,заключённый,None,None
+3191,privacy,конфиденциальность,None,None
+3192,private,частный,None,None
+3193,prize,приз,None,None
+3194,probability,вероятность,None,None
+3195,probably,вероятно,None,None
+3196,probe,зонд,None,None
+3197,proceed,продолжить,None,None
+3198,proclaim,провозглашать,None,None
+3199,proclamation,провозглашение,None,None
+3200,procrastination,промедление,None,None
+3201,procure,закупать,None,None
+3202,produce,производить,None,None
+3203,production,производство,None,None
+3204,profanity,профанация,None,None
+3205,profess,исповедовать,None,None
+3206,proficient,опытный,None,None
+3207,profit,прибыль,None,None
+3208,profitable,прибыльный,None,None
+3209,profound,глубокий,None,None
+3210,profuse,нет перевода,None,None
+3211,progress,прогресс,None,None
+3212,prohibit,запрещать,None,None
+3213,prohibition,запрет,None,None
+3214,prolong,продлить,None,None
+3215,prominent,видный,None,None
+3216,promise,обещать,None,None
+3217,promote,способствовать,None,None
+3218,promotion,продвижение,None,None
+3219,prompt,побуждать,подсказывать,None
+3220,prompt,"проворный, быстрый",None,None
+3221,prone,склонный,None,None
+3222,proce,произносить,None,None
+3223,proof,доказательство,None,None
+3224,prop,опора,None,None
+3225,propel,продвигать вперёд,None,None
+3226,proper,надлежащий,None,None
+3227,property,недвижимость,свойство,None
+3228,prophecy,пророчество,None,None
+3229,prophesy,пророчить,None,None
+3230,prophet,пророк,None,None
+3231,proposal,предложение,None,None
+3232,propose,предлагать,None,None
+3233,proposition,предложение,None,None
+3234,propriety,приличие,None,None
+3235,prosecute,"вести, проводить",None,None
+3236,prosecution,обвинение,None,None
+3237,prospect,перспектива,None,None
+3238,prospective,нет перевода,None,None
+3239,prosper,процветать,None,None
+3240,prosperity,процветание,None,None
+3241,prosperous,процветающий,None,None
+3242,protect,защищать,None,None
+3243,protection,защита,None,None
+3244,protective,нет перевода,None,None
+3245,proud,гордый,высокомерный,None
+3246,prove,доказывать,None,None
+3247,pro,пословица,None,None
+3248,provide,обеспечивать,None,None
+3249,providence,провидение,None,None
+3250,provision,запасы провианта,снабжение,мера предосторожности
+3251,provoke,провоцировать,None,None
+3252,prudent,благоразумный,None,None
+3253,public,общественный,None,None
+3254,publicity,гласность,None,None
+3255,publish,публиковать,None,None
+3256,puke,рвота,None,None
+3257,pull,тянуть,None,None
+3258,pull down,сносить,разрушать,None
+3259,pull off,снимать,стаскивать,справляться с задачей
+3260,pull up,останавливать(ся),осаживать,делать выговор
+3261,punch,удар,None,None
+3262,punish,наказывать,None,None
+3263,punishment,наказание,None,None
+3264,pupil,ученик,None,None
+3265,puppy,щенок,None,None
+3266,purchase,покупка,None,None
+3267,pure,чистый,None,None
+3268,purify,очищать,None,None
+3269,purple,фиолетовый,None,None
+3270,purpose,цель,None,None
+3271,purse,кошелёк,None,None
+3272,pursue,преследовать,None,None
+3273,pursuit,погоня,None,None
+3274,push,толкать,нажимать,None
+3275,put back,задерживать,тормозить,откладывать
+3276,put off,откладывать,None,None
+3277,put on,надевать,приводить в действие,притворяться
+3278,put,класть,None,None
+3279,together,вместе,None,None
+3280,put up,строить,поднимать,показывать
+3281,puzzle,головоломка,None,None
+3282,quaint,причудливый,None,None
+3283,quake,дрожать,None,None
+3284,qualify,квалифицировать,None,None
+3285,quality,качество,None,None
+3286,quantity,количество,None,None
+3287,quarrel,ссора,None,None
+3288,quarry,карьер,None,None
+3289,quarter,четверть,None,None
+3290,queen,королева,None,None
+3291,queer,странный,None,None
+3292,quest,поиск,None,None
+3293,question,вопрос,None,None
+3294,mark,отмечать,None,None
+3295,questionable,сомнительный,None,None
+3296,queue,очередь,None,None
+3297,quick,быстрый,None,None
+3298,quickness,быстрота,None,None
+3299,quiet,спокойный,None,None
+3300,quit,покидать,оставлять,None
+3301,quite,вполне,None,None
+3302,quotation,цитата,None,None
+3303,quote,цитировать,None,None
+3304,rabbit,кролик,None,None
+3305,race,гонка,None,None
+3306,racial,расовый,None,None
+3307,rack,стойка,None,None
+3308,rag,тряпка,лохмотья,None
+3309,rage,ярость,None,None
+3310,ragged,рваный,None,None
+3311,raid,рейд,None,None
+3312,rail,перевозить или посылать по железной дороге,None,None
+3313,railroad,железная дорога,None,None
+3314,railway,железная дорога,None,None
+3315,rain,дождь,None,None
+3316,rainbow,радуга,None,None
+3317,raise,поднимать,None,None
+3318,rally,сплотиться,None,None
+3319,ram,таранить,None,None
+3320,random,случайный,None,None
+3321,range,диапазон,None,None
+3322,rank,шеренга,звание,None
+3323,rape,изнасилование,None,None
+3324,rapid,быстрый,None,None
+3325,rare,редкий,None,None
+3326,rascal,мошенник,None,None
+3327,rash,стремительный,None,None
+3328,rat,крыса,None,None
+3329,rate,скорость,None,None
+3330,rather,лучше,весьма,None
+3331,ratio,соотношение,None,None
+3332,rational,рациональный,None,None
+3333,rattle,погремушка,None,None
+3334,ravage,опустошать,None,None
+3335,raw,сырой,None,None
+3336,ray,луч,None,None
+3337,razor,бритва,None,None
+3338,reach,зона доступа,None,None
+3339,react,реагировать,None,None
+3340,ready,готовый,None,None
+3341,real,реальный,None,None
+3342,realistic,реалистичный,None,None
+3343,reality,реальность,None,None
+3344,realize,осуществлять,осознавать,None
+3345,really,действительно,None,None
+3346,realm,область,None,None
+3347,reap,пожинать,None,None
+3348,rear,тыл,None,None
+3349,rearrange,перестраивать,None,None
+3350,reason,причина,None,None
+3351,reasonable,(благо)разумный,None,None
+3352,reassure,успокоить,None,None
+3353,rebel,мятежник,None,None
+3354,rebellion,восстание,None,None
+3355,rebound,отскок,None,None
+3356,recall,вспоминать,None,None
+3357,recapture,отбить,None,None
+3358,recede,отступать,None,None
+3359,receipt,квитанция,чек,None
+3360,receive,получать,None,None
+3361,recently,недавно,None,None
+3362,reception,приём,None,None
+3363,recess,углубление,None,None
+3364,recession,рецессия,None,None
+3365,recipe,рецепт,None,None
+3366,recipient,получающий,None,None
+3367,recite,декламировать,None,None
+3368,reckless,безрассудный,None,None
+3369,reckon,рассчитывать,полагать,None
+3370,reclaim,возвращать,заново использовать,перевоспитывать
+3371,recognition,признание,None,None
+3372,recognize,признавать,None,None
+3373,recollect,вспоминать,None,None
+3374,recollection,воспоминание,None,None
+3375,recommend,рекомендовать,None,None
+3376,reconcile,согласовать,None,None
+3377,reconciliation,примирение,None,None
+3378,record,запись,None,None
+3379,recount,пересчитывать,None,None
+3380,recover,восстанавливать,None,None
+3381,recovery,восстановление,None,None
+3382,rectify,исправлять,None,None
+3383,recycle,нет перевода,None,None
+3384,redeem,искупить,None,None
+3385,redouble,нет перевода,None,None
+3386,reduce,уменьшать,None,None
+3387,reduction,сокращение,None,None
+3388,redundant,излишний,None,None
+3389,refer,ссылаться,None,None
+3390,reference,ссылка,отношение,None
+3391,refine,совершенствовать,None,None
+3392,reflect,отражать,None,None
+3393,reflection,отражение,None,None
+3394,refrain,рефрен,None,None
+3395,refresh,освежать,обновлять,None
+3396,refuge,убежище,None,None
+3397,refund,возместить,None,None
+3398,refusal,отказ,None,None
+3399,refuse,мусор,None,None
+3400,regain,получить обратно,None,None
+3401,regard,считать,None,None
+3402,regenerate,нет перевода,None,None
+3403,regret,сожаление,None,None
+3404,regular,стандартный,постоянный,регулярный
+3405,rehearsal,репетиция,None,None
+3406,rehearse,репетировать,None,None
+3407,reign,царствование,None,None
+3408,reinforce,укреплять,None,None
+3409,reject,отвергать,None,None
+3410,rejection,отказ,None,None
+3411,rejoice,радоваться,ликовать,None
+3412,rejoin,присоединиться,None,None
+3413,relate,относиться,None,None
+3414,relation,отношение,None,None
+3415,relationship,связь,None,None
+3416,relative,относительный,None,None
+3417,relax,нет перевода,None,None
+3418,relaxation,релаксация,None,None
+3419,relay,реле,None,None
+3420,release,освобождение,релиз,None
+3421,relevant,"уместный, относящийся к делу",None,None
+3422,reliability,надёжность,None,None
+3423,reliable,надёжный,None,None
+3424,reliance,опора,None,None
+3425,relief,облегчение,None,None
+3426,relieve,освобождать,None,None
+3427,relish,смак,None,None
+3428,reluctance,нежелание,None,None
+3429,reluctant,неохотный,None,None
+3430,rely,полагаться,None,None
+3431,remain,оставаться,None,None
+3432,remainder,остаток,None,None
+3433,remark,замечание,None,None
+3434,remarkable,замечательный,None,None
+3435,remedy,средство,None,None
+3436,remembrance,воспоминание,None,None
+3437,remind,напоминать,None,None
+3438,reminder,напоминание,None,None
+3439,reminiscence,воспоминание,None,None
+3440,remorse,раскаяние,None,None
+3441,remote,удалённый,None,None
+3442,removal,удаление,None,None
+3443,remove,"ступень, шаг",None,None
+3444,render,оказывать,None,None
+3445,renew,обновить,None,None
+3446,renewal,обновление,None,None
+3447,renown,слава,None,None
+3448,rent,аренда,None,None
+3449,repair,отремонтировать,None,None
+3450,repay,погашать,None,None
+3451,repeal,отменять,None,None
+3452,repeat,повторять,None,None
+3453,repel,отталкивать,None,None
+3454,replace,заменять,None,None
+3455,replacement,замена,None,None
+3456,reply,ответ,None,None
+3457,report,сообщать,None,None
+3458,repose,отдыхать,None,None
+3459,represent,представлять,None,None
+3460,representative,представитель,None,None
+3461,repress,подавлять,None,None
+3462,repression,репрессия,None,None
+3463,reproach,упрёк,None,None
+3464,reprove,порицать,None,None
+3465,repudiate,отрекаться,None,None
+3466,repulsive,отталкивающий,None,None
+3467,repute,репутация,None,None
+3468,request,запрос,None,None
+3469,require,требовать,None,None
+3470,requirement,требование,None,None
+3471,rescue,спасать,None,None
+3472,research,исследование,None,None
+3473,resemblance,сходство,None,None
+3474,resemble,"походить, иметь сходство",None,None
+3475,resent,возмущаться,None,None
+3476,resentment,негодование,None,None
+3477,reserve,резерв,None,None
+3478,reservoir,водохранилище,None,None
+3479,reside,находиться,None,None
+3480,resign,отказываться (от должности),вновь подписывать,None
+3481,resignation,отставка,None,None
+3482,resist,сопротивляться,None,None
+3483,resistance,сопротивление,None,None
+3484,resolute,решительный,None,None
+3485,resolution,разрешение,None,None
+3486,resolve,решать,разрешать (сомнения и т. п.),None
+3487,resort,прибегать,None,None
+3488,resource,ресурс,None,None
+3489,respect,уважение,None,None
+3490,respectful,почтительный,None,None
+3491,respite,передышка,None,None
+3492,respond,отвечать,None,None
+3493,response,ответ,None,None
+3494,responsibility,ответственность,None,None
+3495,responsible,ответственный,None,None
+3496,rest,покой,остаток,None
+3497,rest,отдыхать,покоиться,None
+3498,restoration,восстановление,None,None
+3499,restore,восстанавливать(ся),None,None
+3500,restrain,сдерживать,None,None
+3501,restraint,сдержанность,None,None
+3502,restrict,ограничивать,None,None
+3503,restriction,ограничение,None,None
+3504,result,результат,None,None
+3505,resume,возобновить,None,None
+3506,resumption,возобновление,None,None
+3507,resurrect,воскрешать,None,None
+3508,resurrection,воскресение,None,None
+3509,retail,продавать(ся) в розницу,None,None
+3510,retain,сохранять,None,None
+3511,retire,"удаляться, уходить",None,None
+3512,retirement,отставка,None,None
+3513,retort,реторта,None,None
+3514,retract,втягиваться,None,None
+3515,retreat,отступление,None,None
+3516,retrospect,"взгляд назад, в прошлое",None,None
+3517,return,возвращаться,None,None
+3518,reuse,нет перевода,None,None
+3519,reveal,раскрывать,None,None
+3520,revelation,откровение,None,None
+3521,revenge,месть,None,None
+3522,revengeful,мстительный,None,None
+3523,revere,нет перевода,None,None
+3524,reverence,благоговение,None,None
+3525,reverie,мечтательность,None,None
+3526,reverse,"противоположное, обратное",None,None
+3527,review,пересматривать,None,None
+3528,revile,нет перевода,None,None
+3529,revise,пересматривать,None,None
+3530,revival,возрождение,None,None
+3531,revive,оживать,оживлять,возрождать
+3532,revolt,восстать,None,None
+3533,reward,наградить,None,None
+3534,rib,ребро,None,None
+3535,rice,рис,None,None
+3536,rich,богатый,None,None
+3537,riches,богатство,None,None
+3538,riddle,загадка,None,None
+3539,ride,поездка,None,None
+3540,ridicule,насмешка,None,None
+3541,ridiculous,нелепый,None,None
+3542,rifle,стрелять из винтовки,None,None
+3543,right,право,None,None
+3544,right,надлежащим или должным образом,None,None
+3545,rightful,законный,None,None
+3546,rigid,жёсткий,None,None
+3547,rim,обод,None,None
+3548,ring,звонить,None,None
+3549,ring,кольцо,None,None
+3550,riot,бунт,None,None
+3551,rip,сорвать,None,None
+3552,ripe,спелый,None,None
+3553,ripen,созревать,None,None
+3554,ripple,пульсация,None,None
+3555,rise,подниматься,None,None
+3556,ritual,"обрядовый, ритуальный",None,None
+3557,rival,соперник,None,None
+3558,rivalry,соперничество,None,None
+3559,river,река,None,None
+3560,road,дорога,None,None
+3561,roam,бродить,None,None
+3562,roar,реветь,рычать,None
+3563,roast,жарить,None,None
+3564,rob,грабить,None,None
+3565,robbery,ограбление,None,None
+3566,robe,халат,None,None
+3567,robust,крепкий,None,None
+3568,rock,качать(ся),None,None
+3569,rock,скала,рок,None
+3570,rod,ветвь,прут,стержень
+3571,rogue,негодяй,жулик,None
+3572,roll,ролл,None,None
+3573,romance,романтика,None,None
+3574,roof,крыша,None,None
+3575,roommate,нет перевода,None,None
+3576,root,корень,None,None
+3577,rope,верёвка,None,None
+3578,rot,гниль,None,None
+3579,rotten,гнилой,None,None
+3580,rough,грубый,None,None
+3581,roughly,грубо,None,None
+3582,rouse,будить,None,None
+3583,route,маршрут,None,None
+3584,routine,рутина,None,None
+3585,row,строка,ссора,None
+3586,royal,королевский,None,None
+3587,rub,рубль,None,None
+3588,rubber,резина,None,None
+3589,rubbish,мусор,None,None
+3590,rude,грубый,None,None
+3591,rug,ковёр,плед,изморось
+3592,ruin,разрушать,None,None
+3593,rule,править,None,None
+3594,rumor,слух,None,None
+3595,run,"бег, пробег",None,None
+3596,runaway,побег,None,None
+3597,rural,сельский,None,None
+3598,rush,спешить,None,None
+3599,rust,ржаветь,None,None
+3600,rut,колея,None,None
+3601,ruthless,безжалостный,None,None
+3602,sack,мешок,None,None
+3603,sacred,священный,None,None
+3604,sacrifice,жертва,None,None
+3605,sad,печальный,None,None
+3606,safe,безопасный,защищённый,невредимый
+3607,safety,безопасность,None,None
+3608,sail,парус,None,None
+3609,saint,святой,None,None
+3610,salary,зарплата,None,None
+3611,sale,продажа,None,None
+3612,salesperson,продавец,None,None
+3613,salt,соль,None,None
+3614,salvage,нет перевода,None,None
+3615,salvation,спасение,None,None
+3616,sample,образец,None,None
+3617,sanction,санкция,None,None
+3618,sand,песок,None,None
+3619,sane,здравомыслящий,None,None
+3620,sanity,здравомыслие,None,None
+3621,satellite,спутник,None,None
+3622,satisfaction,удовлетворение,None,None
+3623,satisfactory,удовлетворительный,None,None
+3624,satisfy,удовлетворять,None,None
+3625,saucer,блюдце,None,None
+3626,sausage,колбаса,сосиска,None
+3627,savage,дикий,первобытный,None
+3628,save,спасать,копить,None
+3629,savings,сбережения,None,None
+3630,saying,поговорка,None,None
+3631,scale,шкала,масштаб,чешуя
+3632,scant,скудный,None,None
+3633,scarce,нет перевода,None,None
+3634,scarcely,едва,None,None
+3635,scare,пугать,None,None
+3636,scary,жуткий,None,None
+3637,scatter,разбрасывать,None,None
+3638,scent,запах,нюх,None
+3639,schedule,график,None,None
+3640,scheme,схема,None,None
+3641,scholar,учёный,None,None
+3642,science,наука,None,None
+3643,scientific,научный,None,None
+3644,scientist,учёный,None,None
+3645,scissors,ножницы,None,None
+3646,scold,сварливая женщина,None,None
+3647,scope,сфера,None,None
+3648,score,счёт,None,None
+3649,scorn,презрение,None,None
+3650,scornful,пренебрежительный,None,None
+3651,scramble,схватка,None,None
+3652,scramble,карабкаться,None,None
+3653,scrap,лом,None,None
+3654,scrape,скрести,обдирать,царапать
+3655,scratch,царапать,чесать(ся),None
+3656,scream,крик,None,None
+3657,screen,экран,None,None
+3658,screw,винт,None,None
+3659,screw,прикручивать,завинчивать,None
+3660,screw up,испортить,напортачить,None
+3661,scripture,священное писание,None,None
+3662,scroll,свиток,None,None
+3663,scrub,скраб,None,None
+3664,scrutinize,изучать,None,None
+3665,scrutiny,рассмотрение,None,None
+3666,scum,сволочь,None,None
+3667,sea,море,None,None
+3668,seal,печать,None,None
+3669,search,искать,None,None
+3670,season,сезон,None,None
+3671,seat,сиденье,None,None
+3672,secondary,вторичный,None,None
+3673,secrecy,секретность,None,None
+3674,secret,секрет,None,None
+3675,section,раздел,None,None
+3676,secular,светский,None,None
+3677,secure,безопасный,None,None
+3678,security,безопасность,None,None
+3679,seduce,соблазнить,None,None
+3680,seduction,совращение,None,None
+3681,seed,семя,None,None
+3682,seek,искать,None,None
+3683,seem,казаться,None,None
+3684,seemingly,на вид,None,None
+3685,seize,захватывать,налагать арест,None
+3686,seldom,редко,None,None
+3687,select,выбирать,None,None
+3688,selection,выбор,None,None
+3689,selective,селективный,None,None
+3690,self,собственная личность,сам,None
+3691,selfish,эгоистичный,None,None
+3692,sell,продавать,None,None
+3693,send,посылать,None,None
+3694,senior,старший,None,None
+3695,sense,смысл,None,None
+3696,senseless,бессмысленный,None,None
+3697,sensibility,чувствительность,None,None
+3698,sensible,разумный,None,None
+3699,sensitive,чувствительный,None,None
+3700,sensual,чувственный,None,None
+3701,sentence,предложение,приговор,None
+3702,sentiment,чувство,None,None
+3703,separate,отдельный,None,None
+3704,separation,разделение,None,None
+3705,sequel,продолжение,None,None
+3706,series,серия,None,None
+3707,serious,серьёзный,None,None
+3708,sermon,проповедь,None,None
+3709,servant,слуга,None,None
+3710,serve,служить,None,None
+3711,service,служба,None,None
+3712,set,устанавливать,None,None
+3713,set,набор,None,None
+3714,set out,отправляться,намереваться,излагать
+3715,settle,урегулировать,None,None
+3716,settle,скамья (-ларь),None,None
+3717,settlement,поселение,уплата,None
+3718,several,несколько,None,None
+3719,severe,тяжёлый,None,None
+3720,sew,шить,None,None
+3721,sex,секс,None,None
+3722,shade,тень,None,None
+3723,shadow,тень,None,None
+3724,shake,встряска,None,None
+3725,shallow,мелкий,None,None
+3726,shame,позор,None,None
+3727,shameful,позорный,None,None
+3728,shape,форма,None,None
+3729,share,делить,None,None
+3730,shark,акула,None,None
+3731,sharp,острый,чёткий,None
+3732,sharpen,заострить,None,None
+3733,shatter,разрушить,None,None
+3734,shave,брить,None,None
+3735,shear,стричь,None,None
+3736,sheath,оболочка,None,None
+3737,shed,пролить,None,None
+3738,sheep,овца,None,None
+3739,sheer,чистый,None,None
+3740,sheet,лист,None,None
+3741,shelf,полка,None,None
+3742,shell,оболочка,None,None
+3743,shepherd,пастух,None,None
+3744,shield,щит,None,None
+3745,shift,сдвиг,None,None
+3746,shine,светить,None,None
+3747,ship,корабль,None,None
+3748,shirk,уклоняться,None,None
+3749,shit,дерьмо,None,None
+3750,shiver,дрожать,None,None
+3751,shock,шокировать,None,None
+3752,shoe,туфля,None,None
+3753,shoot,охота,None,None
+3754,shop,магазин,None,None
+3755,shore,побережье,None,None
+3756,shortage,нехватка,None,None
+3757,shortcut,мелкая крошка (сорт табака),None,None
+3758,shorten,сокращать,None,None
+3759,shot,выстрел,None,None
+3760,shoulder,плечо,None,None
+3761,shout,крик,None,None
+3762,shove,впихнуть,None,None
+3763,shovel,лопата,None,None
+3764,shower,душ,None,None
+3765,shred,клочок,лоскуток,None
+3766,shrewd,проницательный,None,None
+3767,shrink,сокращать(ся),None,None
+3768,shroud,саван,None,None
+3769,shudder,содрогаться,None,None
+3770,shut,закрывать,None,None
+3771,shut up,замолчать,заткнуть(ся),None
+3772,shy,застенчивый,None,None
+3773,sick,больной,None,None
+3774,sicken,пресытиться,None,None
+3775,sickness,болезнь,None,None
+3776,side,сторона,None,None
+3777,sidewalk,тротуар,None,None
+3778,sigh,вздох,None,None
+3779,sight,зрение,None,None
+3780,sign,знак,None,None
+3781,signature,подпись,None,None
+3782,significance,значение,None,None
+3783,significant,значительный,None,None
+3784,signify,означать,None,None
+3785,silence,тишина,None,None
+3786,silent,тихий,None,None
+3787,silk,шёлк,None,None
+3788,silly,глупый,None,None
+3789,silver,нет перевода,None,None
+3790,similar,похожий,None,None
+3791,simple,простой,None,None
+3792,simplicity,простота,None,None
+3793,simplify,упрощать,None,None
+3794,simply,просто,None,None
+3795,simultaneous,одновременный,None,None
+3796,sin,грех,None,None
+3797,sincere,искренний,None,None
+3798,sincerity,искренность,None,None
+3799,single,один,None,None
+3800,singular,необычный,исключительный,None
+3801,singularity,сингулярность,None,None
+3802,sink,потопить,None,None
+3803,sip,потягивать,None,None
+3804,size,размер,None,None
+3805,skate,скат (рыба),конёк,None
+3806,skeleton,скелет,None,None
+3807,sketch,набросок,None,None
+3808,skill,умение,None,None
+3809,skill,нет перевода,None,None
+3810,skillful,искусный,None,None
+3811,skin,кожа,None,None
+3812,skinny,тощий,None,None
+3813,skip,пропускать,None,None
+3814,skirt,юбка,None,None
+3815,skull,череп,None,None
+3816,sky,небо,None,None
+3817,slack,вялый,None,None
+3818,slacken,ослабить,None,None
+3819,slam,шлем,None,None
+3820,slander,клеветать,None,None
+3821,slap,шлепок,None,None
+3822,slaughter,бойня,None,None
+3823,slave,раб,None,None
+3824,slavery,рабство,None,None
+3825,slay,убивать,None,None
+3826,sleeve,рукав,None,None
+3827,slender,стройный,None,None
+3828,slice,ломтик,None,None
+3829,slide,скользить,None,None
+3830,slight,незначительный,None,None
+3831,slim,тонкий,None,None
+3832,slip,скользить,проскакивать,None
+3833,slipper,тапочка,None,None
+3834,slippery,скользкий,None,None
+3835,slope,наклон,склон,None
+3836,sloth,ленивец,None,None
+3837,slow,медленный,None,None
+3838,slump,спад,None,None
+3839,sly,хитрый,None,None
+3840,smack,привкус,None,None
+3841,smart,умный,None,None
+3842,smash,разбивать,None,None
+3843,smell,пахнуть,None,None
+3844,smoke,курить,None,None
+3845,smoke,дым,None,None
+3846,smooth,гладкий,None,None
+3847,snake,змея,None,None
+3848,snap,"щёлкать, лязгать, хлопать (чем-л.)",None,None
+3849,snatch,вырвать,None,None
+3850,sneak,подлец,подхалим,None
+3851,sneer,насмешка,None,None
+3852,sneeze,чихать,None,None
+3853,sniff,нюхать,None,None
+3854,snow,снег,None,None
+3855,snub,относиться с пренебрежением,None,None
+3856,soak,замочить,None,None
+3857,soap,мыло,None,None
+3858,soar,взлетать,None,None
+3859,sober,трезвый,None,None
+3860,so-called,так называемый,None,None
+3861,soc,нет перевода,None,None
+3862,sociable,общительный,None,None
+3863,society,общество,None,None
+3864,sock,носок,None,None
+3865,sodomy,содомия,None,None
+3866,soft,мягкий,None,None
+3867,soften,смягчать,None,None
+3868,software,программное обеспечение,None,None
+3869,soil,почва,None,None
+3870,solar,солнечный,None,None
+3871,soldier,солдат,None,None
+3872,sole,подошва,None,None
+3873,solemn,торжественный,None,None
+3874,solid,твёрдый,None,None
+3875,solitary,одинокий,None,None
+3876,solitude,одиночество,None,None
+3877,solution,решение,None,None
+3878,solve,решать,None,None
+3879,someday,нет перевода,None,None
+3880,somehow,как-то,None,None
+3881,sometime,когда-нибудь,None,None
+3882,somewhat,отчасти,None,None
+3883,somewhere,где-то,None,None
+3884,soon,скоро,None,None
+3885,soothe,успокаивать,None,None
+3886,sophisticated,сложный,None,None
+3887,sore,больной,None,None
+3888,sorrow,печаль,None,None
+3889,sorry,сожалеющий,None,None
+3890,soul,душа,None,None
+3891,sound,звук,None,None
+3892,soup,суп,None,None
+3893,sour,кислый,None,None
+3894,source,источник,None,None
+3895,south,юг,None,None
+3896,southern,южный,None,None
+3897,sow,свиноматка,None,None
+3898,space,пространство,None,None
+3899,spacecraft,космический корабль,None,None
+3900,spaceship,космический корабль,None,None
+3901,spade,лопата,None,None
+3902,span,пролёт,None,None
+3903,spare,беречь,жалеть,None
+3904,spark,искра,None,None
+3905,sparkle,искриться,None,None
+3906,sparrow,воробей,None,None
+3907,speak up,говорить громко и отчетливо,None,None
+3908,spear,копьё,None,None
+3909,special,специальный,None,None
+3910,specialty,специальность,None,None
+3911,species,вид,None,None
+3912,spectacle,зрелище,None,None
+3913,spectacular,захватывающий,None,None
+3914,spectator,зритель,None,None
+3915,speculate,спекулировать,None,None
+3916,speculation,спекуляция,None,None
+3917,speech,речь,None,None
+3918,speed,скорость,None,None
+3919,spell,очаровывать,писать или произносить (слово) по буквам,сменять
+3920,spelling,нет перевода,None,None
+3921,spend,тратить,None,None
+3922,spider,паук,None,None
+3923,spill,проливать,None,None
+3924,spin,крутиться,None,None
+3925,spine,позвоночник,None,None
+3926,spirit,дух,None,None
+3927,spiritual,духовный,None,None
+3928,spit,коса,None,None
+3929,spite,злоба,None,None
+3930,spiteful,злобный,None,None
+3931,splash,всплеск,None,None
+3932,splendid,роскошный,выдающийся,None
+3933,split,раскалывать,разбивать,None
+3934,spoil,портить,None,None
+3935,spokesman,пресс-секретарь,None,None
+3936,spoon,ложка,None,None
+3937,spot,пятно,место,None
+3938,spouse,супруг,None,None
+3939,spread,распространяться,None,None
+3940,spring,бить ключом,None,None
+3941,spring,весна,None,None
+3942,sprint,спринт,None,None
+3943,spur,подстегнуть,None,None
+3944,spy,шпионить,None,None
+3945,square,квадрат,площадь,None
+3946,squat,приземистый,None,None
+3947,squeak,пищать,None,None
+3948,squeeze,выжать,None,None
+3949,stab,заколоть,None,None
+3950,stable,конюшня,None,None
+3951,stack,стопка,None,None
+3952,staff,персонал,None,None
+3953,stage,этап,None,None
+3954,stagger,"шатание, пошатывание",None,None
+3955,stain,испачкать,None,None
+3956,stair,ступенька,None,None
+3957,stake,доля,None,None
+3958,stalk,преследовать,None,None
+3959,stall,киоск,None,None
+3960,stamp,штамповать,None,None
+3961,stand,стоять,None,None
+3962,stand up,вставать,None,None
+3963,standpoint,точка зрения,None,None
+3964,standstill,остановка,простой,мертвая точка
+3965,stare,смотреть,None,None
+3966,stark,совершенно,None,None
+3967,startle,испугать,поразить,None
+3968,starvation,голодание,None,None
+3969,starve,голодать,None,None
+3970,state,состояние,государство,штат
+3971,statement,заявление,None,None
+3972,statesman,государственный деятель,None,None
+3973,static,статический,None,None
+3974,stay,пребывание,None,None
+3975,stay up,не ложиться спать,None,None
+3976,steady,устойчивый,None,None
+3977,steal,красть,None,None
+3978,steam,пар,None,None
+3979,steel,сталь,None,None
+3980,steep,крутой,None,None
+3981,steer,"намёк, подсказка",кастрированный бычок,None
+3982,stellar,нет перевода,None,None
+3983,stem,ствол,стебель,рукоятка
+3984,step,шагать,ступать,None
+3985,sterile,стерильный,None,None
+3986,stern,кормовой,None,None
+3987,stick,втыкать,застревать,придерживаться
+3988,stick,палка,None,None
+3989,sticker,наклейка,None,None
+3990,stiff,жёсткий,непоколебимый,None
+3991,stifle,душить,None,None
+3992,still,до сих пор,всё ещё,None
+3993,stimulus,стимул,None,None
+3994,sting,жалить,None,None
+3995,stink,вонять,None,None
+3996,stir,переполох,None,None
+3997,stock,запас,опора,род
+3998,stomach,переварить,None,None
+3999,stone,камень,None,None
+4000,storage,хранение,None,None
+4001,store,магазин,запас,None
+4002,storey,этаж,None,None
+4003,storm,буря,None,None
+4004,story,история,None,None
+4005,stout,толстый,None,None
+4006,straight,прямо,None,None
+4007,straightforward,прямой,None,None
+4008,strain,штамм,None,None
+4009,strange,странный,None,None
+4010,strangle,задушить,None,None
+4011,strap,прицепить,None,None
+4012,straw,солома,None,None
+4013,strawberry,клубника,None,None
+4014,stray,отклоняться,None,None
+4015,stream,поток,None,None
+4016,strength,сила,прочность,None
+4017,strengthen,усиливать(ся),None,None
+4018,stress,стресс,None,None
+4019,stretch,растягивать,None,None
+4020,strict,строгий,None,None
+4021,stride,шаг,None,None
+4022,strife,борьба,None,None
+4023,strike,ударять,нападать,None
+4024,string,веревка,строка,None
+4025,strip,раздеть,None,None
+4026,stripe,полоса,None,None
+4027,strive,добиваться,None,None
+4028,stroke,ход,None,None
+4029,stroll,прогуляться,None,None
+4030,struggle,бороться,стараться,None
+4031,stubborn,упрямый,None,None
+4032,study,исследование,None,None
+4033,stuff,материал,хлам (разг.),None
+4034,stumble,спотыкаться,None,None
+4035,stupid,глупый,None,None
+4036,stupidity,глупость,None,None
+4037,sturdy,крепкий,None,None
+4038,subdue,подчинять,None,None
+4039,subject,"подчинённый, подвластный",None,None
+4040,sublime,совершенный,возвышенный,надменный
+4041,submission,представление,подача (документа),None
+4042,submit,представлять на рассмотрение,None,None
+4043,subordinate,подчинённый,None,None
+4044,subscribe,подписываться,None,None
+4045,subsequent,последующий,None,None
+4046,substance,вещество,None,None
+4047,substantial,существенный,None,None
+4048,substitute,заменитель,None,None
+4049,substitution,замена,None,None
+4050,subtle,тонкий,None,None
+4051,subtract,вычитать,None,None
+4052,suburb,пригород,None,None
+4053,subway,метро,None,None
+4054,succeed,преуспевать,None,None
+4055,success,успех,None,None
+4056,successful,успешный,None,None
+4057,succession,преемственность,None,None
+4058,successive,последующий,None,None
+4059,successor,преемник,None,None
+4060,suck,сосать,None,None
+4061,sucker,присоска,None,None
+4062,sudden,внезапный,None,None
+4063,sue,преследовать судебным порядком,None,None
+4064,suffer,страдать,None,None
+4065,suffice,хватить,None,None
+4066,sufficient,достаточный,None,None
+4067,sugar,сахар,None,None
+4068,suggest,предлагать,None,None
+4069,suggestion,предложение,None,None
+4070,suicide,самоубийство,None,None
+4071,suit,костюм,None,None
+4072,suitable,подходящий,None,None
+4073,suitcase,чемодан,None,None
+4074,sum,сумма,None,None
+4075,summary,резюме,None,None
+4076,summer,лето,None,None
+4077,summit,вершина,саммит,None
+4078,summon,вызывать,призывать,None
+4079,sun,солнце,None,None
+4080,sunset,закат,None,None
+4081,sunshine,солнечный свет,None,None
+4082,superb,превосходный,None,None
+4083,superior,"высший, старший",None,None
+4084,superiority,превосходство,None,None
+4085,superstition,суеверие,None,None
+4086,supplement,дополнение,None,None
+4087,supply,поставка,None,None
+4088,support,поддержка,None,None
+4089,suppose,полагать,допускать,None
+4090,supposition,предположение,None,None
+4091,suppress,подавлять,None,None
+4092,supreme,верховный,None,None
+4093,surface,поверхность,None,None
+4094,surge,всплеск,None,None
+4095,surgeon,хирург,None,None
+4096,surgery,хирургия,None,None
+4097,surgical,хирургический,None,None
+4098,surmount,нет перевода,None,None
+4099,surpass,превосходить,None,None
+4100,surplus,профицит,None,None
+4101,surprise,удивлять,None,None
+4102,surrender,сдавать(ся),None,None
+4103,surround,окружать,None,None
+4104,survey,обзор,None,None
+4105,survival,выживание,None,None
+4106,survive,выживать,None,None
+4107,survivor,оставшийся в живых,уцелевший,None
+4108,suspect,подозревать,None,None
+4109,suspend,приостанавливать,None,None
+4110,suspense,саспенс,None,None
+4111,suspicion,подозрение,None,None
+4112,suspicious,подозрительный,None,None
+4113,sustain,поддерживать,None,None
+4114,swallow,глотать,None,None
+4115,swap,обменять,None,None
+4116,sway,раскачиваться,иметь влияние,None
+4117,swear,клясться,ругаться,None
+4118,sweat,пот,None,None
+4119,sweep,прокатиться,None,None
+4120,sweet,сладкий,None,None
+4121,sweetheart,возлюбленный,None,None
+4122,swell,раздуваться,None,None
+4123,swift,"скорый, быстрый",None,None
+4124,swindle,обмануть,None,None
+4125,swing,качели,None,None
+4126,switch,переключать,None,None
+4127,sword,меч,None,None
+4128,symbol,символ,None,None
+4129,sympathize,сочувствовать,None,None
+4130,sympathy,сочувствие,None,None
+4131,table,стол,None,None
+4132,tackle,"принадлежности, инструмент",None,None
+4133,tag,тег,None,None
+4134,tail,хвост,None,None
+4135,take,брать,None,None
+4136,take away,уносить,убирать,отбирать
+4137,take down,снимать,разбирать,None
+4138,take off,снимать,взлететь (самолёт и т. п.),None
+4139,tale,рассказ,сказка,None
+4140,talent,талант,None,None
+4141,talker,болтун,None,None
+4142,tall,высокий,None,None
+4143,tame,ручной,None,None
+4144,tan,загар,None,None
+4145,tangle,клубок,None,None
+4146,tank,бак,None,None
+4147,tap,кран,None,None
+4148,tape,лента,None,None
+4149,target,цель,None,None
+4150,task,задача,None,None
+4151,taste,вкус,None,None
+4152,taunt,насмехаться,None,None
+4153,tax,облагать налогом,None,None
+4154,taxation,налогообложение,None,None
+4155,tea,чай,None,None
+4156,team,команда,None,None
+4157,tear,слеза,None,None
+4158,tease,дразнить,None,None
+4159,technology,технология,None,None
+4160,tedious,утомительный,None,None
+4161,teenage,нет перевода,None,None
+4162,temper,нрав,None,None
+4163,temperance,умеренность,None,None
+4164,temple,храм,висок,None
+4165,temporal,временной,None,None
+4166,temporary,временный,None,None
+4167,tempt,соблазнять,склонять,None
+4168,temptation,искушение,None,None
+4169,tenacity,упорство,None,None
+4170,tenant,арендатор,None,None
+4171,tend,тяготеть,заботиться,None
+4172,tendency,тенденция,None,None
+4173,tender,тендер,None,None
+4174,tenet,принцип,None,None
+4175,tense,время,None,None
+4176,tension,напряжение,None,None
+4177,tent,палатка,None,None
+4178,tentative,нет перевода,None,None
+4179,term,"выражать, называть",None,None
+4180,termination,прекращение,None,None
+4181,term,термин,None,None
+4182,terrible,ужасный,None,None
+4183,terrific,потрясающий,None,None
+4184,terrify,устрашать,None,None
+4185,terror,террор,None,None
+4186,terrorize,терроризировать,None,None
+4187,test,тест,None,None
+4188,testicle,яичко,None,None
+4189,testify,свидетельствовать,None,None
+4190,testimony,свидетельство,None,None
+4191,thank,благодарить,None,None
+4192,thankful,благодарный,None,None
+4193,theft,кража,None,None
+4194,theme,тема,None,None
+4195,theory,теория,None,None
+4196,thereafter,после этого,None,None
+4197,thereby,таким образом,None,None
+4198,therefore,поэтому,None,None
+4199,thick,толстый,None,None
+4200,thickness,толщина,None,None
+4201,thief,вор,None,None
+4202,thin,тонкий,None,None
+4203,thirst,жажда,None,None
+4204,thorn,шип,None,None
+4205,thoroughly,тщательно,None,None
+4206,think,думать,None,None
+4207,thoughtful,вдумчивый,None,None
+4208,thread,нить,None,None
+4209,threat,угроза,None,None
+4210,threaten,угрожать,None,None
+4211,threshold,порог,None,None
+4212,thrift,бережливость,None,None
+4213,thrill,трепетать,None,None
+4214,thrive,процветать,None,None
+4215,throat,горло,горловина,None
+4216,throng,толпа,None,None
+4217,throw,бросать,None,None
+4218,throw,бросок,None,None
+4219,throw out,выбрасывать,None,None
+4220,thrust,упор,None,None
+4221,thumb,большой палец руки,None,None
+4222,thump,стучать,None,None
+4223,thunder,гром,None,None
+4224,thunderstorm,гроза,None,None
+4225,thus,таким образом,до такой степени,None
+4226,ticket,билет,None,None
+4227,tide,волна,None,None
+4228,tidy,опрятный,None,None
+4229,tie,связывать,завязывать,скреплять
+4230,tiger,тигр,None,None
+4231,tight,плотно,None,None
+4232,tighten,затянуть,None,None
+4233,timber,лесоматериалы,None,None
+4234,time,время,None,None
+4235,timely,своевременный,None,None
+4236,timid,робкий,None,None
+4237,tin,олово,None,None
+4238,tiny,крошечный,None,None
+4239,tip,наконечник,совет,None
+4240,tire,шина,None,None
+4241,tiresome,утомительный,None,None
+4242,tissue,ткань,None,None
+4243,title,название,None,None
+4244,tobacco,табак,None,None
+4245,toe,палец ноги,"носок (обуви, чулка)",None
+4246,toil,труд,None,None
+4247,toilet,туалет,None,None
+4248,token,знак,напоминание,None
+4249,tolerance,толерантность,None,None
+4250,tolerant,терпимый,None,None
+4251,tolerate,терпеть,None,None
+4252,toleration,терпимость,None,None
+4253,toll,"медленно и мерно ударять в колокол, благовестить",None,None
+4254,tomb,могила,надгробие,None
+4255,tun,тун,None,None
+4256,tongue,язык,None,None
+4257,tonight,сегодня вечером (реже ночью),None,None
+4258,tool,инструмент,None,None
+4259,tooth,зуб,None,None
+4260,toothpaste,зубная паста,None,None
+4261,top,вершина,None,None
+4262,topic,тема,None,None
+4263,torment,мучение,None,None
+4264,torture,пытка,None,None
+4265,toss,бросить,None,None
+4266,total,общий,None,None
+4267,totally,полностью,None,None
+4268,tough,жёсткий,выносливый,None
+4269,tow,буксировать,None,None
+4270,towel,полотенце,None,None
+4271,tower,башня,None,None
+4272,town,город,None,None
+4273,toy,игрушка,None,None
+4274,trace,след,None,None
+4275,track,отслеживать,None,None
+4276,trade,торговля,None,None
+4277,trade,торговать,None,None
+4278,traffic,трафик,None,None
+4279,trail,плестись,None,None
+4280,train,поезд,None,None
+4281,trait,особенность,None,None
+4282,traitor,предатель,None,None
+4283,tranquil,спокойный,None,None
+4284,tranquillity,спокойствие,None,None
+4285,transaction,сделка,None,None
+4286,transfer,передать,None,None
+4287,transform,преображать(ся),None,None
+4288,transition,переход,None,None
+4289,translate,переводить,None,None
+4290,transmission,передача,None,None
+4291,transmit,передавать,None,None
+4292,transparent,прозрачный,None,None
+4293,trap,ловушка,None,None
+4294,trash,мусор,None,None
+4295,travel,путешествовать,None,None
+4296,tray,поднос,поддон,None
+4297,treacherous,коварный,None,None
+4298,treachery,предательство,None,None
+4299,tread,протектор,None,None
+4300,treason,измена,None,None
+4301,treasure,сокровище,None,None
+4302,treat,удовольствие,None,None
+4303,treat,лечить,None,None
+4304,treatment,интерпретация,лечение,None
+4305,treaty,договор,None,None
+4306,tree,дерево,None,None
+4307,tremble,нет перевода,None,None
+4308,tremendous,огромный,None,None
+4309,trend,нет перевода,None,None
+4310,trial,испытание,суд,None
+4311,tribe,племя,None,None
+4312,tribute,дань,None,None
+4313,trick,трюк,None,None
+4314,trickery,обман,None,None
+4315,trifle,мелочь,None,None
+4316,trifle,шутить,None,None
+4317,trig,аккуратный,None,None
+4318,trim,отделка,None,None
+4319,trip,опрокинуть,None,None
+4320,triple,тройной,None,None
+4321,trivial,тривиальный,None,None
+4322,troop,отряд,None,None
+4323,trophy,трофей,None,None
+4324,trouble,беда,None,None
+4325,troublemaker,нарушитель спокойствия,None,None
+4326,troublesome,трудный,None,None
+4327,truce,перемирие,None,None
+4328,truck,грузовик,None,None
+4329,truly,действительно,None,None
+4330,trumpet,труба,None,None
+4331,trunk,ствол,None,None
+4332,trust,доверять,None,None
+4333,truth,правда,None,None
+4334,truthful,правдивый,None,None
+4335,try,пытаться,None,None
+4336,tube,трубка,None,None
+4337,tug,тащить,None,None
+4338,tuition,обучение,None,None
+4339,tumble,падать,None,None
+4340,tune,мелодия,None,None
+4341,turmoil,суматоха,None,None
+4342,turn back,возвращать(ся),None,None
+4343,turn down,отвергать (предложение),убавлять,уменьшать
+4344,turn,поворот,None,None
+4345,turn off,выключать,гасить,None
+4346,turnover,оборот,None,None
+4347,turtle,черепаха,None,None
+4348,twice,дважды,None,None
+4349,twilight,сумерки,None,None
+4350,twin,близнец,None,None
+4351,twist,твист,None,None
+4352,tyrant,тиран,None,None
+4353,ugliness,уродство,None,None
+4354,ugly,уродливый,None,None
+4355,ultimate,окончательный,None,None
+4356,umbrella,зонт,None,None
+4357,unable,неспособный,None,None
+4358,unacceptable,неприемлемый,None,None
+4359,unalterable,неизменный,None,None
+4360,unarmed,безоружный,None,None
+4361,unaware,нет перевода,None,None
+4362,unbearable,невыносимый,None,None
+4363,unbelievable,невероятный,None,None
+4364,unbending,непреклонный,None,None
+4365,uncertainty,неопределённость,None,None
+4366,uncle,дядя,None,None
+4367,uncommon,редкий,None,None
+4368,unconscious,бессознательный,None,None
+4369,uncover,раскрывать,None,None
+4370,underestimate,недооценка,None,None
+4371,undergo,подвергаться,None,None
+4372,underground,метро,None,None
+4373,underlying,лежащий или расположенный под чем-л.,None,None
+4374,undermine,подрывать,None,None
+4375,underneath,вниз,None,None
+4376,underrate,недооценивать,None,None
+4377,undertake,предпринимать,None,None
+4378,underwear,нет перевода,None,None
+4379,undo,аннулировать,None,None
+4380,uneasy,неловкий,беспокойный,None
+4381,unemployment,безработица,None,None
+4382,unequal,неравный,None,None
+4383,unfair,несправедливый,None,None
+4384,unfit,негодный,None,None
+4385,unfold,раскрываться,None,None
+4386,unfortunate,несчастный,None,None
+4387,unfortunately,к сожалению,None,None
+4388,unhappy,несчастный,None,None
+4389,unification,унификация,None,None
+4390,uniform,форма,None,None
+4391,unintelligible,неразборчивый,None,None
+4392,union,союз,None,None
+4393,unique,уникальный,None,None
+4394,unit,блок,None,None
+4395,unite,объединяться,None,None
+4396,unity,единство,None,None
+4397,universal,универсальный,None,None
+4398,universe,вселенная,None,None
+4399,unjust,несправедливый,None,None
+4400,unknown,неизвестный,None,None
+4401,unlike,в отличие от,None,None
+4402,unlikely,"неправдоподобный, невероятный, маловероятный",None,None
+4403,unlimited,неограниченный,None,None
+4404,unlock,отпереть,None,None
+4405,unpleasant,неприятный,None,None
+4406,unseen,невидимый,None,None
+4407,unskilled,неквалифицированный,None,None
+4408,unsolvable,нет перевода,None,None
+4409,unstable,нет перевода,None,None
+4410,unthinkable,немыслимый,None,None
+4411,untie,развязывать,None,None
+4412,untrue,неверный,None,None
+4413,untruth,неправда,None,None
+4414,unusual,необычный,None,None
+4415,unworthy,недостойный,None,None
+4416,update,обновление,None,None
+4417,upper,верхний,None,None
+4418,upright,нет перевода,None,None
+4419,upset,расстраивать,None,None
+4420,phr.upside down,вверх ногами,None,None
+4421,upward,вверх,None,None
+4422,urban,нет перевода,None,None
+4423,urge,призывать,None,None
+4424,urgency,срочность,None,None
+4425,urgent,срочный,None,None
+4426,useful,полезный,None,None
+4427,useless,бесполезный,None,None
+4428,usual,обычный,None,None
+4429,utility,полезность,коммунальные предприятия,None
+4430,utmost,самый отдалённый,None,None
+4431,utter,произнести,None,None
+4432,vacant,свободный,None,None
+4433,vacation,отпуск,None,None
+4434,vacuum,вакуум,None,None
+4435,vague,расплывчатый,None,None
+4436,vain,тщеславный,None,None
+4437,valid,нет перевода,None,None
+4438,valley,долина,None,None
+4439,valuable,ценный,None,None
+4440,value,ценить,None,None
+4441,vanish,исчезать,None,None
+4442,vanity,тщеславие,None,None
+4443,vanquish,побеждать,None,None
+4444,variable,переменный,None,None
+4445,variation,изменение,None,None
+4446,variety,разнообразие,None,None
+4447,various,различный,None,None
+4448,vary,меняться,None,None
+4449,vast,огромный,None,None
+4450,vegetable,овощ,None,None
+4451,vehicle,автомобиль,None,None
+4452,vein,вена,None,None
+4453,velocity,скорость,None,None
+4454,velvet,бархат,None,None
+4455,vengeance,месть,None,None
+4456,venture,рискованное предприятие,None,None
+4457,,глагол,None,None
+4458,al,вербальный,None,None
+4459,verge,грань,None,None
+4460,verification,проверка,None,None
+4461,verify,проверить,None,None
+4462,verse,стих,None,None
+4463,vessel,сосуд,судно,None
+4464,vex,досаждать,None,None
+4465,vice,заместитель,None,None
+4466,phr.vice versa,наоборот,None,None
+4467,vicious,порочный,None,None
+4468,victim,жертва,None,None
+4469,victor,виктор,None,None
+4470,victorious,победоносный,None,None
+4471,victory,победа,None,None
+4472,view,вид,None,None
+4473,vigorous,энергичный,None,None
+4474,vile,мерзкий,None,None
+4475,village,деревня,None,None
+4476,villain,злодей,None,None
+4477,vindictive,мстительный,None,None
+4478,vine,нет перевода,None,None
+4479,violate,нарушать,None,None
+4480,violation,нарушение,None,None
+4481,violence,насилие,None,None
+4482,violent,насильственный,None,None
+4483,violin,скрипка,None,None
+4484,viper,гадюка,None,None
+4485,virgin,девственница,None,None
+4486,virtual,виртуальный,None,None
+4487,virtue,добродетель,None,None
+4488,virtuous,добродетельный,None,None
+4489,visible,видимый,None,None
+4490,vision,зрение,видение,None
+4491,visit,визит,None,None
+4492,visualize,визуализировать,None,None
+4493,vital,жизненный,None,None
+4494,vivid,яркий,None,None
+4495,vocational,профессиональный,None,None
+4496,voice,голос,None,None
+4497,void,незанятый,бесполезный,None
+4498,volume,объём,None,None
+4499,voluntary,добровольный,None,None
+4500,vomit,рвота,None,None
+4501,vote,голосовать,None,None
+4502,vow,обет,None,None
+4503,voyage,путешествие,None,None
+4504,vulgar,вульгарный,None,None
+4505,wag,вилять,None,None
+4506,wage,вести,None,None
+4507,waist,талия,None,None
+4508,waiter,официант,None,None
+4509,wake,услуга,None,None
+4510,wake,будить,просыпаться,None
+4511,walk,идти пешком,гулять,None
+4512,wall,стена,None,None
+4513,wallet,бумажник,None,None
+4514,wander,блуждать,None,None
+4515,wane,убыль,None,None
+4516,war,война,None,None
+4517,warehouse,склад,None,None
+4518,warfare,война,None,None
+4519,warm,тёплый,None,None
+4520,warmth,тепло,None,None
+4521,warn,предупреждать,None,None
+4522,warrant,ордер,None,None
+4523,warrior,воин,None,None
+4524,wary,осторожный,None,None
+4525,wash,мыть,None,None
+4526,wasp,оса,None,None
+4527,waste,отходы,None,None
+4528,watch,смотреть,None,None
+4529,watch,часы,надзор,None
+4530,waterfall,водопад,None,None
+4531,wave,волна,None,None
+4532,waver,колебаться,None,None
+4533,wax,вощить,прибывать (о луне,None
+4534,way,способ,None,None
+4535,weak,слабый,None,None
+4536,weaken,ослаблять,None,None
+4537,weakness,слабость,None,None
+4538,wealth,богатство,None,None
+4539,wealthy,богатый,None,None
+4540,weapon,оружие,None,None
+4541,wear,носить,None,None
+4542,wear,износ,None,None
+4543,wear out,изнашивать(ся),None,None
+4544,weariness,усталость,None,None
+4545,weary,утомлённый,None,None
+4546,weather,погода,None,None
+4547,wedding,свадьба,None,None
+4548,weed,сорняк,марихуана,None
+4549,week,неделя,None,None
+4550,weekly,еженедельно,None,None
+4551,weep,плакать,None,None
+4552,weigh,весить,None,None
+4553,weight,вес,None,None
+4554,weird,странный,None,None
+4555,welfare,благосостояние,None,None
+4556,west,запад,None,None
+4557,western,западный,None,None
+4558,wet,мокрый,None,None
+4559,whale,кит,None,None
+4560,wheat,пшеница,None,None
+4561,wheel,колесо,None,None
+4562,whereabouts,нет перевода,None,None
+4563,whim,каприз,None,None
+4564,whine,скулить,None,None
+4565,whip,хлестать,None,None
+4566,whirl,вихрь,None,None
+4567,whisper,шёпот,None,None
+4568,whistle,свистеть,None,None
+4569,whitewash,побелка,None,None
+4570,whole,целый,весь,None
+4571,wholesale,нет перевода,None,None
+4572,wholly,полностью,None,None
+4573,whore,шлюха,None,None
+4574,wicked,злой,None,None
+4575,wide,широкий,None,None
+4576,widen,нет перевода,None,None
+4577,widespread,нет перевода,None,None
+4578,widow,вдова,None,None
+4579,width,ширина,None,None
+4580,wield,владеть,None,None
+4581,wife,жена,None,None
+4582,wild,дикий,None,None
+4583,wilderness,пустыня,None,None
+4584,wildlife,живая природа,None,None
+4585,will,проявлять волю,желать,None
+4586,willingness,готовность,None,None
+4587,willow,ива,None,None
+4588,wily,коварный,None,None
+4589,win,выигрывать,None,None
+4590,wind,ветер,None,None
+4591,wine,вино,None,None
+4592,wing,крыло,None,None
+4593,wink,подмигивание,None,None
+4594,winter,зима,None,None
+4595,wipe,протирать,None,None
+4596,wipe out,изнурять,изматывать,уничтожать
+4597,wire,провод,None,None
+4598,wireless,беспроводный,None,None
+4599,wisdom,мудрость,None,None
+4600,wise,"образ, способ",None,None
+4601,wish,желание,None,None
+4602,wit,остроумие,None,None
+4603,withdraw,выводить,None,None
+4604,wither,увядать,None,None
+4605,witness,быть свидетелем,None,None
+4606,witty,остроумный,None,None
+4607,wizard,мастер,колдун,None
+4608,woe,горе,None,None
+4609,wolf,волк,None,None
+4610,wonder,чудо,None,None
+4611,wonder,удивляться,None,None
+4612,wonderful,замечательный,None,None
+4613,woo,ухаживать,None,None
+4614,wood,дерево,None,None
+4615,wooden,деревянный,None,None
+4616,wool,шерсть,None,None
+4617,wordy,многословный,None,None
+4618,worm,червь,None,None
+4619,workshop,мастерская,None,None
+4620,worry,беспокойство,None,None
+4621,worship,поклоняться,None,None
+4622,worst,наихудший,None,None
+4623,worth,стоимость,None,None
+4624,worthless,никчёмный,None,None
+4625,worthy,достойный,None,None
+4626,wound,рана,None,None
+4627,wrangle,пререкаться,None,None
+4628,wrap,оборачивать,None,None
+4629,wrath,гнев,ярость,None
+4630,wreck,крушение,None,None
+4631,wrest,вырвать,None,None
+4632,wrestle,бороться,None,None
+4633,wretched,несчастный,None,None
+4634,wring,выжимать,None,None
+4635,wrinkle,морщина,None,None
+4636,wrist,запястье,None,None
+4637,writing,письмо,None,None
+4638,wrong,неправда,None,None
+4639,wrong-headed,заблуждающийся,None,None
+4640,yacht,яхта,None,None
+4641,yard,"ярд (9,44 см)",двор,None
+4642,yawn,зевок,None,None
+4643,yearly,годовой,None,None
+4644,yearn,тосковать,None,None
+4645,yell,крик,None,None
+4646,yelp,визг,None,None
+4647,yet,ещё,None,None
+4648,yield,уступить,None,None
+4649,young,молодой,None,None
+4650,youngster,мальчик,None,None
+4651,youth,юность,None,None
+4652,zeal,рвение,None,None
+4653,zealous,ревностный,None,None
+4654,zoo,зоопарк,None,None
