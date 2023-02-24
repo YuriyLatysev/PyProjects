@@ -111,27 +111,29 @@ def choose_word():
         return None, None, None, None
 
 
-def send_words():
+def send_words(num_words_now):
     english_word, russian_word1, russian_word2, russian_word3 = choose_word()
     with open('id.csv', 'r', newline='', encoding='utf-8') as csv_file:
         reader = csv.DictReader(csv_file)
         for row in reader:
-            mess = bot.send_message(row['user_id'], f'Напишите перевод слова <b>{english_word}</b>', parse_mode='html')
-            bot.register_next_step_handler(mess, check_translation, russian_word1=russian_word1,
-                                           russian_word2=russian_word2, russian_word3=russian_word3)
+            if int(row['num_words']) in num_words_now:
+                mess = bot.send_message(row['user_id'], f'Напишите перевод слова <b>{english_word}</b>',
+                                        parse_mode='html')
+                bot.register_next_step_handler(mess, check_translation, russian_word1=russian_word1,
+                                               russian_word2=russian_word2, russian_word3=russian_word3)
 
 
 def main():
-    schedule.every().day.at("00:44").do(send_words)
-    schedule.every().day.at("00:49").do(send_words)
-    schedule.every().day.at("00:44").do(send_words)
-    schedule.every().day.at("00:44").do(send_words)
-    schedule.every().day.at("00:44").do(send_words)
-    schedule.every().day.at("00:44").do(send_words)
-    schedule.every().day.at("00:44").do(send_words)
-    schedule.every().day.at("00:44").do(send_words)
-    schedule.every().day.at("00:44").do(send_words)
-    schedule.every().day.at("00:44").do(send_words)
+    schedule.every().day.at("09:00").do(send_words, num_words_now=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10])
+    schedule.every().day.at("10:00").do(send_words, num_words_now=[6, 7, 8, 9, 10])
+    schedule.every().day.at("11:00").do(send_words, num_words_now=[4, 5, 6, 7, 8, 9, 10])
+    schedule.every().day.at("12:00").do(send_words, num_words_now=[8, 9, 10])
+    schedule.every().day.at("13:00").do(send_words, num_words_now=[3, 4, 5, 6, 7, 9, 10])
+    schedule.every().day.at("14:00").do(send_words, num_words_now=[2, 7, 8, 10])
+    schedule.every().day.at("15:00").do(send_words, num_words_now=[4, 5, 6, 7, 8, 9, 10])
+    schedule.every().day.at("16:00").do(send_words, num_words_now=[8, 9, 10])
+    schedule.every().day.at("17:00").do(send_words, num_words_now=[3, 5, 6, 7, 8, 9, 10])
+    schedule.every().day.at("18:00").do(send_words, num_words_now=[9, 10])
 
     while True:
         schedule.run_pending()
