@@ -1,6 +1,9 @@
 import csv
 import random
 import telebot
+import threading
+import schedule
+import time
 from telebot import types
 
 bot = telebot.TeleBot('5901360246:AAE34FfQ-FaM2UCVv1t4lrlEIdAHLqssea0')
@@ -108,14 +111,50 @@ def choose_word():
         return None, None, None, None
 
 
-def main():
+def send_words():
     english_word, russian_word1, russian_word2, russian_word3 = choose_word()
     with open('id.csv', 'r', newline='', encoding='utf-8') as csv_file:
         reader = csv.DictReader(csv_file)
         for row in reader:
-            bot.send_message(row['user_id'], )
+            mess = bot.send_message(row['user_id'], f'Напишите перевод слова <b>{english_word}</b>', parse_mode='html')
+            bot.register_next_step_handler(mess, check_translation, russian_word1=russian_word1,
+                                           russian_word2=russian_word2, russian_word3=russian_word3)
+
+
+def main():
+    schedule.every().day.at("00:44").do(send_words)
+    schedule.every().day.at("00:49").do(send_words)
+    schedule.every().day.at("00:44").do(send_words)
+    schedule.every().day.at("00:44").do(send_words)
+    schedule.every().day.at("00:44").do(send_words)
+    schedule.every().day.at("00:44").do(send_words)
+    schedule.every().day.at("00:44").do(send_words)
+    schedule.every().day.at("00:44").do(send_words)
+    schedule.every().day.at("00:44").do(send_words)
+    schedule.every().day.at("00:44").do(send_words)
+
+    while True:
+        schedule.run_pending()
+        time.sleep(1)
+
+
+def check_translation(message, russian_word1, russian_word2, russian_word3):
+    if (message.text.lower() == russian_word1.lower()) or (message.text.lower() == russian_word2.lower()) or \
+            (message.text.lower() == russian_word3.lower()):
+        bot.send_message(message.chat.id, '<b>Правильно!</b>', parse_mode='html')
+    else:
+        bot.send_message(message.chat.id, f'<b>Не верно.</b> Правильный перевод - {russian_word1} '
+                                          f'{russian_word2} {russian_word3}', parse_mode='html')
+
+
+def bot_polling():
+    bot.polling(none_stop=True)
 
 
 if __name__ == '__main__':
-    # english_word, russian_word1, russian_word2, russian_word3 = choose_word()
-    bot.polling(none_stop=True)
+    thread_1 = threading.Thread(target=main)
+    thread_2 = threading.Thread(target=bot_polling)
+    thread_1.start()
+    thread_2.start()
+    thread_1.join()
+    thread_2.join()
